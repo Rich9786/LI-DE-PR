@@ -243,7 +243,7 @@ http://tecnotv.club/8di/smartv.php?c=univ-1&k=tecno&f=.m3u8
 #EXTINF:-1 logo="https://tvbix.com/images/channels/nbc-universo.png" group-title="TV PREMIUM",UNIVERSO
 http://tecnotv.club/8di/sport.php?c=universo&k=tecno&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="Mundo", Caracol TV 
-http://tecnotv.club/8di/android3.php?c=16|User-Agent=elpro
+http://tecnotv.club/8di/smartv.php?c=caracol&k=tecno&f=.m3u8
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/606160676197920768/cbOnU666.png" group-title="ENTRETENIMIENTO",GLITZ
 http://tecnotv.club/8di/geomex.php?c=76&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ATV_logo.png" group-title="ENTRETENIMIENTO",atv
@@ -751,11 +751,11 @@ http://tecnotv.club/8di/smartv2.php?c=1954
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES",Win Sports
 http://tecnotv.club/8di/smartv2.php?c=1870
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032020/win_sport_.jpg?UJIv5b6Z8y29Fb3.N110WFEkJKWE6Rvn&itok=dl41Wxqs" group-title="DEPORTES",WIN SPORTS PLUS SEÑAL
-http://tecnotv.club/8di/sport.php?c=winplus
+http://tecnotv.club/8di/smartv2.php?c=1869
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="DEPORTES",TNT Sports México
-http://tecnotv.club/8di/geomex.php?c=126&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="DEPORTES",TNT Sports Argentina
 http://tecnotv.club/8di/smartv2.php?c=1907
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="DEPORTES",TNT Sports Argentina
+http://tecnotv.club/8di/smartv2.php?c=1899
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="DEPORTES",TNT Sports 2 Chile
 http://tecnotv.club/8di/smartv2.php?c=1900
 #EXTINF:-1 tvg-id="" tvg-name="CDO Basico" tvg-logo="https://cdn.mitvstatic.com/channels/cl_cdo-basico_m.png" group-title="DEPORTES",CDO BASICO
@@ -769,7 +769,7 @@ http://tecnotv.club/8di/smartv2.php?c=1918
 #EXTINF:-1 tvg-id="692" tvg-name="Best Cable Sports" tvg-logo="https://www.m3u.cl/logo/692_Best_Cable_Sports.png", Best Cable Sports | PE
 https://tv.siete.us:19360/bestcablesports/bestcablesports/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Adrenalina-%2820q6%29.png" group-title="DEPORTES",ADRENALINA SPORTS
-http://tecnotv.club/di2/geomex.php?c=1799&p=3&k=tecnotv&f=.m3u8
+http://tecnotv.club/8di/geomex.php?c=1799&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UFC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="DEPORTES",UFC
 http://tecnotv.club/8di/smartv2.php?c=1913
 #EXTINF:-1 logo="https://www.thematv.com/medias/channels/latin-american-sports/logo.png" group-title="DEPORTES",LAS
