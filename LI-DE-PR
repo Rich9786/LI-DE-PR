@@ -479,9 +479,9 @@ http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1644.ts
 http://tecnotv.club/8di/geomex.php?c=19&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png" group-title="NOTICIAS",FOROTV HD
 http://tecnotv.club/8di/geomex.php?c=4&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 logo="https://www.telesistematototlan.com.mx/static/img/canales/adn40.jpg" group-title="NOTICIAS",ADN40
+#EXTINF:-1 logo="https://radionotas.com/wp-content/uploads/2017/10/ADN-40.jpg" group-title="NOTICIAS",ADN40
 http://tecnotv.club/8di/geomex.php?c=40&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1 logo="https://www.telesistematototlan.com.mx/static/img/canales/adn40.jpg" group-title="NOTICIAS",ADN 40 HD
+#EXTINF:-1 logo="https://pbs.twimg.com/media/C62AHXzU8AAbEQj.jpg" group-title="NOTICIAS",ADN 40 HD
 http://tecnotv.club/8di/geomex.php?c=184&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="NOTICIAS",CNN 1
 http://tecnotv.club/8di/geomex.php?c=186&p=3&k=tecnotv&f=.m3u8
@@ -568,12 +568,8 @@ http://127.0.0.1
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Directv Sports 1" tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2018/09/DIRECTV-SPORTS.jpg" group-title="DEPORTES",Directv Sports 1
-http://tecnotv.club/8di/smartv2.php?c=1905
+http://tecnotv.club/8di/sport.php?c=directv&k=tecno&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Directv Sports 1" tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2018/09/DIRECTV-SPORTS.jpg" group-title="DEPORTES",Directv Sports 1
-http://tecnotv.club/8di/smartv2.php?c=1904
-#EXTINF:-1 tvg-id="" tvg-name="Directv sports LAT" tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2018/09/DIRECTV-SPORTS.jpg" group-title="DEPORTES",Directv sports LAT
-http://tecnotv.club/8di/smartv2.php?c=1939
-#EXTINF:-1 tvg-id="" tvg-name="Directv Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DEPORTES",Directv Sports 2
 http://tecnotv.club/8di/sport.php?c=directv2&k=tecno&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="DEPORTES",ESPN 
 http://tecnotv.club/8di/geomex.php?c=169&p=3&k=tecnotv&f=.m3u8
