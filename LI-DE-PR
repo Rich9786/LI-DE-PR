@@ -183,7 +183,7 @@ http://tecnotv.club/8di/geomex.php?c=91&p=3&k=tecnotv&f=.m3u8
 http://tecnotv.club/8di/geomex.php?c=92&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/b0b1be396300c5e3e4f8a42612c1f3affeb4c90557f31060485d3b137b6ce9ad.png" group-title="MUNDO Y CULTURA",Silence TV WORLD HD
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://quotefancy.com/media/wallpaper/3840x2160/4776883-Michael-Crichton-Quote-No-one-escapes-from-life-alive.jpg" group-title="USA",eScapes
+#EXTINF:-1 tvg-logo="https://www.idlehearts.com/images/no-one-escapes-from-life-alive.jpg" group-title="USA",eScapes
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-escapes/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J84tZzN.png" group-title="USA",Forests Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
