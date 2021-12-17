@@ -476,6 +476,8 @@ http://tecnotv.club/dic17/android3.php?c=60|User-Agent=megapro
 http://tecnotv.club/dic17/android3.php?c=63|User-Agent=megapro
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",HBO Family
 http://tecnotv.club/dic17/android3.php?c=62|User-Agent=megapro
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",HBO Family
+http://tecnotv.club/dic17/smartv2.php?c=3298
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus
 http://tecnotv.club/dic17/android3.php?c=59|User-Agent=megapro
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_hbo-signature_m.png" group-title="CINE",HBO Signature
