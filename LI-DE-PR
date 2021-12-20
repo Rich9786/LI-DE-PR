@@ -402,8 +402,8 @@ http://tecnotv.club/dic17/smartv2.php?c=3073
 http://tecnotv.club/dic17/geomex.php?c=1729&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/u2lgAVF.png" group-title="CINE",Star Cinema HD
 http://tecnotv.club/dic17/smartv2.php?c=3074
-#EXTINF:-1 logo="https://i.imgur.com/qLXeX12.png" group-title="CINE",Star Classics HD
-http://tecnotv.club/dic17/smartv2.php?c=3075
+#EXTINF:-1 logo="https://i.imgur.com/qLXeX12.png" group-title="CINE",Star Classics
+http://tecnotv.club/dic17/android3.php?c=86|User-Agent=megapro
 #EXTINF:-1 logo="https://i.imgur.com/O5IvT7k.png" group-title="CINE",Star Hits HD 
 http://tecnotv.club/dic17/smartv2.php?c=3079
 #EXTINF:-1 logo="https://i.imgur.com/ZBgJDA2.png" group-title="CINE",Star Series
@@ -430,8 +430,8 @@ http://tecnotv.club/dic17/smartv2.php?c=3296
 http://tecnotv.club/dic17/android3.php?c=63|User-Agent=megapro
 #EXTINF:-1 logo="https://www.logolynx.com/images/logolynx/s_cd/cd47fb52116f18d99be56ef0457daf36.png" group-title="CINE",HBO 2 HD
 http://tecnotv.club/dic17/smartv2.php?c=3297
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",HBO Family HD
-http://tecnotv.club/dic17/smartv2.php?c=3298
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",HBO Family
+http://tecnotv.club/dic17/android3.php?c=62|User-Agent=megapro
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus HD
 http://tecnotv.club/dic17/android3.php?c=59|User-Agent=megapro
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus HD
