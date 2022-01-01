@@ -320,10 +320,12 @@ http://tecnotv.club/dc27/smartv2.php?c=3061
 #EXTINF:-1 logo="https://i.imgur.com/pWW9ljW.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA
 http://tecnotv.club/dc27/geomex.php?c=78&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/1/17/Comedycentral.jpg/revision/latest/top-crop/width/360/height/450?cb=20180804010106&path-prefix=pt-br" group-title="ENTRETENIMIENTO",COMEDY CENTRAL HD
-http://tecnotv.club/dc27/smartv2.php?c=3044
+http://tecnotv.club/dc27/lista1.php?c=comedycentralhd
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/1/17/Comedycentral.jpg/revision/latest/top-crop/width/360/height/450?cb=20180804010106&path-prefix=pt-br" group-title="ENTRETENIMIENTO",COMEDY CENTRAL
 http://tecnotv.club/dc27/geomex.php?c=340&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_tru-tv-hd_m.png" group-title="ENTRETENIMIENTO",TRUTV HD
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_tru-tv-hd_m.png" group-title="ENTRETENIMIENTO",TRUTV HD S1
+http://tecnotv.club/dc27/lista1.php?c=a073
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_tru-tv-hd_m.png" group-title="ENTRETENIMIENTO",TRUTV HD S2
 http://tecnotv.club/dc27/geomex.php?c=215&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/hn_tru-tv_m.png" group-title="ENTRETENIMIENTO",TRUTV
 http://tecnotv.club/dc27/geomex.php?c=79&p=3&k=tecnotv&f=.m3u8
@@ -352,9 +354,9 @@ http://tecnotv.club/dc27/smartv2.php?c=3028
 #EXTINF:-1 logo="https://www.pngkit.com/png/detail/298-2981889_49-novelas-az-clic.png" group-title="ENTRETENIMIENTO",AZ CORAZON 
 http://tecnotv.club/dc27/geomex.php?c=70&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://logodix.com/logo/2085350.jpg" group-title="TV PREMIUM",PASIONES HD
-http://tecnotv.club/dc27/smartv2.php?c=3181
+http://tecnotv.club/dc27/lista1.php?c=pasioneshd
 #EXTINF:-1 logo="https://logodix.com/logo/2085350.jpg" group-title="TV PREMIUM",PASIONES
-http://tecnotv.club/dc27/android3.php?c=119|User-Agent=megapro
+http://tecnotv.club/dc27/android3.php?c=119|User-Agent=tupro
 #EXTINF:-1 logo="https://www.telefonogratuito10.com/wp-content/uploads/2019/10/tel%C3%A9fono-gratuito-antena-3.png" group-title="ENTRETENIMIENTO",ANTENA 3 HD
 http://tecnotv.club/dc27/smartv2.php?c=3023
 #EXTINF:-1 logo="https://www.telefonogratuito10.com/wp-content/uploads/2019/10/tel%C3%A9fono-gratuito-antena-3.png" group-title="ENTRETENIMIENTO",ANTENA 3
