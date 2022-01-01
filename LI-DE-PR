@@ -279,9 +279,9 @@ http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1638.ts
 
 
 
-
-
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_telemundo_m.png" group-title="ENTRETENIMIENTO",TELEMUNDO INTERNACIONAL HD
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_telemundo_m.png" group-title="ENTRETENIMIENTO",TELEMUNDO INTERNACIONAL S1-IND
+http://tecnotv.club/dc27/android3.php?c=108|User-Agent=tupro
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_telemundo_m.png" group-title="ENTRETENIMIENTO",TELEMUNDO INTERNACIONAL S2-IND
 http://tecnotv.club/dc27/geomex.php?c=85&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnSHDEyFQMmYuCEW6VYPEKDgdl-Sntl2NhvbI4KvK3LZxMCLYNwtY0Xg0PIDBUtPG-9l8&usqp=CAU" group-title="ENTRETENIMIENTO",E! HD
 http://tecnotv.club/dc27/smartv2.php?c=3062
@@ -289,6 +289,8 @@ http://tecnotv.club/dc27/smartv2.php?c=3062
 http://tecnotv.club/dc27/geomex.php?c=55&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/556px-Unicable_logo.svg.png" group-title="ENTRETENIMIENTO",UNICABLE 
 http://tecnotv.club/dc27/geomex.php?c=1499&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/556px-Unicable_logo.svg.png" group-title="ENTRETENIMIENTO",UNICABLE
+http://tecnotv.club/dc27/android3.php?c=104|User-Agent=tupro
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="ENTRETENIMIENTO",ESTRELLA TV HD
 http://tecnotv.club/dc27/smartv2.php?c=3170
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="ENTRETENIMIENTO",ESTRELLA TV
@@ -296,11 +298,11 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xn35v8c.png" group-title="Mundo", Univision HD
 http://tecnotv.club/dc27/smartv2.php?c=3190
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xn35v8c.png" group-title="Mundo", Univision 
-http://tecnotv.club/dc27/smartv.php?c=univ-1&k=tecno&f=.m3u8
+http://tecnotv.club/dc27/android3.php?c=102|User-Agent=tupro
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="Mundo", Caracol TV HD
 http://tecnotv.club/dc27/smartv2.php?c=3165
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="Mundo", Caracol TV 
-http://tecnotv.club/dc27/smartv.php?c=caracol&k=tecno&f=.m3u8
+http://tecnotv.club/dc27/android3.php?c=16|User-Agent=tupro
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg" group-title="TV PREMIUM",RCN TELEVISION HD
 http://tecnotv.club/dc27/smartv2.php?c=3182
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg" group-title="TV PREMIUM",RCN TELEVISION
