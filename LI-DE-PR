@@ -478,7 +478,7 @@ http://tecnotv.club/dc27/geomex.php?c=81&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2018_10/large.CineLatinoSilver.png.dc59ff451209bc0dc6aa40711daeb94c.png" group-title="CINE",Cine Latino HD
 http://tecnotv.club/dc27/smartv2.php?c=3279
 #EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2018_10/large.CineLatinoSilver.png.dc59ff451209bc0dc6aa40711daeb94c.png" group-title="CINE",Cine Latino S1
-http://tecnotv.club/dc27/android3.php?c=20|User-Agent=megapro
+http://tecnotv.club/dc27/android3.php?c=20|User-Agent=tupro
 #EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2018_10/large.CineLatinoSilver.png.dc59ff451209bc0dc6aa40711daeb94c.png" group-title="CINE",Cine Latino S2
 http://regioplay.xyz/php/SR_REGIO_411112_/regiotv2.php?c=20|User-Agent=megaplayer
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1352654088824102912/T-yulvxI_400x400.jpg" group-title="CINE",DE PELICULA S1
@@ -494,11 +494,11 @@ http://tecnotv.club/dc27/smartv2.php?c=3027
 #EXTINF:-1 logo="https://www.televisiongratishd.com/img/azcinema.png" group-title="CINE",AZ CINEMA 
 http://tecnotv.club/dc27/geomex.php?c=1787&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1304564443192406016/SDsQY5e4.jpg" group-title="CINE Y SERIES",MORBIDO
-http://tecnotv.club/dc27/geomex.php?c=140&p=3&k=tecnotv&f=.m3u8 
+http://tecnotv.club/dc27/geomex.php?c=140&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLx_K907PBpH9a9Zzu4M_YR_qJCnhP8q9r-ZJKkFy8ctFsbFoPTz1SyoF6tI3CWylvzY&usqp=CAU" group-title="CINE",GOLDEN 
 http://tecnotv.club/dc27/geomex.php?c=123&p=3&k=tecnotv&f=.m3u8 
 #EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png" group-title="CINE",GOLDEN + HD
-http://tecnotv.club/dc27/smartv2.php?c=3091
+http://tecnotv.club/dc27/lista1.php?c=goldenhd
 #EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png" group-title="CINE",GOLDEN +
 http://tecnotv.club/dc27/geomex.php?c=122&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://startvmexico.com/wp-content/uploads/2018/10/gedge.png" group-title="CINE",G-EDGE HD
@@ -510,7 +510,7 @@ http://tecnotv.club/dc27/smartv2.php?c=3092
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="CINE",Golden Premium
 http://regioplay.xyz/php/SR_REGIO_411112_/regiotv2.php?c=66|User-Agent=megaplayer
 #EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT HD
-http://tecnotv.club/dc27/smartv2.php?c=3130
+http://tecnotv.club/dc27/lista1.php?c=a06w
 #EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT 
 http://tecnotv.club/dc27/geomex.php?c=126&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="CINE",TCM HD
@@ -518,11 +518,11 @@ http://tecnotv.club/dc27/smartv2.php?c=3124
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="CINE",TCM
 http://tecnotv.club/dc27/geomex.php?c=128&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_space-estrena-la-serie-zoo-.jpg" group-title="CINE Y SERIES",SPACE HD
-http://tecnotv.club/dc27/smartv2.php?c=3119
+http://tecnotv.club/dc27/lista1.php?c=a06g
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_space-estrena-la-serie-zoo-.jpg" group-title="CINE Y SERIES",SPACE
 http://tecnotv.club/dc27/geomex.php?c=129&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/1200px-AMC_logo_2016.png" group-title="CINE",AMC HD
-http://tecnotv.club/dc27/smartv2.php?c=3021
+http://tecnotv.club/dc27/lista1.php?c=a056
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/1200px-AMC_logo_2016.png" group-title="CINE",AMC S1
 http://tecnotv.club/dc27/geomex.php?c=131&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/1200px-AMC_logo_2016.png" group-title="CINE",AMC S2
@@ -530,7 +530,7 @@ http://tecnotv.club/dc27/geomex.php?c=328&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="TV PREMIUM",DHE HD
 http://tecnotv.club/dc27/lista1.php?c=a0dz
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="CINE",STUDIO UNIVERSAL HD
-http://tecnotv.club/dc27/smartv2.php?c=3120
+http://tecnotv.club/dc27/lista1.php?c=studiouniversalhd
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="CINE",STUDIO UNIVERSAL
 http://tecnotv.club/dc27/geomex.php?c=132&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="http://endorfinacultural.com/wp-content/uploads/2015/06/ISAT-LOGO.png" group-title="CINE",I SAT S1 
@@ -544,19 +544,19 @@ http://tecnotv.club/dc27/geomex.php?c=136&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_film-arts_m.png" group-title="CINE Y SERIES",FILM & ARTS
 http://tecnotv.club/dc27/geomex.php?c=137&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_paramount-channel-expande-su-distribucin-a-travs-de-claro.jpg" group-title="CINE",PARAMOUNT CHANNEL HD
-http://tecnotv.club/dc27/smartv2.php?c=3116
+http://tecnotv.club/dc27/lista1.php?c=a05j
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_paramount-channel-expande-su-distribucin-a-travs-de-claro.jpg" group-title="CINE",PARAMOUNT CHANNEL 
 http://tecnotv.club/dc27/geomex.php?c=1726&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://backend.laguia.tv/uploads/CineCanal_f1374d3a6e.png" group-title="CINE Y SERIES",CINECANAL HD
-http://tecnotv.club/dc27/smartv2.php?c=3040
+http://tecnotv.club/dc27/lista1.php?c=a05c
 #EXTINF:-1 logo="https://backend.laguia.tv/uploads/CineCanal_f1374d3a6e.png" group-title="CINE Y SERIES",CINECANAL
 http://tecnotv.club/dc27/geomex.php?c=149&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/ZYa2gUW.jpg" group-title="CINE",CINEMAX HD
-http://tecnotv.club/dc27/smartv2.php?c=3041
+http://tecnotv.club/dc27/lista1.php?c=cinemaxhd
 #EXTINF:-1 logo="https://i.imgur.com/ZYa2gUW.jpg" group-title="CINE",CINEMAX 
 http://tecnotv.club/dc27/geomex.php?c=158&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1013533204937166848/0s_RxpUI.jpg" group-title="CINE",FXM HD
-http://tecnotv.club/dc27/smartv2.php?c=3085
+http://tecnotv.club/dc27/lista1.php?c=a05l
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1013533204937166848/0s_RxpUI.jpg" group-title="CINE",FXM
 http://tecnotv.club/dc27/geomex.php?c=138&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-id="96699" tvg-name="Orbit TV" tvg-logo="https://lh3.googleusercontent.com/-13NMPnGbChA/XkyjXafughI/AAAAAAAAwIE/5GeoQycy3SoMZ91mla3A_jqJqCqTMvz9wCK8BGAsYHg/s0/2020-02-18.png", Orbit TV HD
@@ -572,7 +572,7 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussen
 #EXTINF:-1 tvg-id="134291" tvg-name="San Pedro TV" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/sptv.png", San Pedro TV
 https://srv4.zcast.com.br/sptv/sptv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 logo="https://i.imgur.com/4krdlGM.png" group-title="CINE",Star Action HD
-http://tecnotv.club/dc27/smartv2.php?c=3073
+http://tecnotv.club/dc27/lista1.php?c=a0bg
 #EXTINF:-1 logo="https://i.imgur.com/4krdlGM.png" group-title="CINE",Star Action
 http://tecnotv.club/dc27/geomex.php?c=336&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/u2lgAVF.png" group-title="CINE",Star Cinema HD
@@ -588,53 +588,53 @@ http://tecnotv.club/dc27/smartv2.php?c=3079
 #EXTINF:-1 logo="https://i.imgur.com/O5IvT7k.png" group-title="CINE",Star Hits
 http://tecnotv.club/dc27/geomex.php?c=146&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/ZBgJDA2.png" group-title="CINE",Star Series
-http://tecnotv.club/dc27/smartv2.php?c=3080
+http://tecnotv.club/dc27/lista1.php?c=a0au
 #EXTINF:-1 logo="https://i.imgur.com/ZBgJDA2.png" group-title="CINE",Star Series
 http://tecnotv.club/dc27/geomex.php?c=139&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/49Z7vBe.png" group-title="CINE",Star Fun HD
-http://tecnotv.club/dc27/smartv2.php?c=3077
+http://tecnotv.club/dc27/lista1.php?c=foxfamilyhd
 #EXTINF:-1 logo="https://i.imgur.com/49Z7vBe.png" group-title="CINE",Star Fun HD
 http://tecnotv.club/dc27/lista1.php?c=foxfamilyhd
 #EXTINF:-1 logo="https://i.imgur.com/49Z7vBe.png" group-title="CINE",Star Fun
-http://tecnotv.club/dc27/android.php?c=70|User-Agent=W&z3YOr^IDlAWm*k@vgr$X4haJ0K*fPOaB%b2i&ANIH8Dv@m9MZMiFK5Ck&g9s6jNP6&FK*V5%mdF9ml5sW0odNi00X4oCdWRPZmZkf#XDEUrb^v3EMy3zX$oEtOFTl&leonuoEzUF49lbE19SIEyygX4fbYxTau4xMQto6&YyAgJ!^q!X6TfUW!SW7MWfj7Ttgoy0RKRK0t2ehRv^va2Wf^rJIjxeqjt074^uq5k8wib4fj#EC2Q0EKjuW&z3YOr^IDlAWm*k@vgr$X4haJ0K*fPOaB%b2i&ANIH8Dv@m9MZMiFK5Ck&g9s6jNP6&FK*V5%mdF9ml5sW0odNi00X4oCdWRPZmZkf#XDEUrb^v3EMy3zX$oEtOFTl&leonuoEzUF49lbE19SIEyygX4fbYxTau4xMQto6&YyAgJ!^q!X6TfUW!SW7MWfj7Ttgoy0RKRK0t2ehRv^va2Wf^rJIjxeqjt074^uq5k8wib4fj#EC2Q0EKju&5l7cYqlo2ulh1RiF0PUAs8Fbvu8N#NECIzv&kM9KajbZlBNneTiiqF5R@n$b^*ET3E0m#hc^*qSZ^eQKUomQ^iPX^DA%&sbXt5eyuNLEazP!i&KJvEdGwU7NP*hz$t$udg#M%A!&z7hNO*XlqGeuY
+http://tecnotv.club/dc27/android3.php?c=84|User-Agent=tupro
 #EXTINF:-1 logo="https://i.imgur.com/U5TMnGD.png" group-title="CINE",Star Comedy HD
-http://tecnotv.club/dc27/smartv2.php?c=3076
+http://tecnotv.club/dc27/lista1.php?c=a07g
 #EXTINF:-1 logo="https://i.imgur.com/U5TMnGD.png" group-title="CINE",Star Comedy
-http://tecnotv.club/dc27/android.php?c=69|User-Agent=W&z3YOr^IDlAWm*k@vgr$X4haJ0K*fPOaB%b2i&ANIH8Dv@m9MZMiFK5Ck&g9s6jNP6&FK*V5%mdF9ml5sW0odNi00X4oCdWRPZmZkf#XDEUrb^v3EMy3zX$oEtOFTl&leonuoEzUF49lbE19SIEyygX4fbYxTau4xMQto6&YyAgJ!^q!X6TfUW!SW7MWfj7Ttgoy0RKRK0t2ehRv^va2Wf^rJIjxeqjt074^uq5k8wib4fj#EC2Q0EKjuW&z3YOr^IDlAWm*k@vgr$X4haJ0K*fPOaB%b2i&ANIH8Dv@m9MZMiFK5Ck&g9s6jNP6&FK*V5%mdF9ml5sW0odNi00X4oCdWRPZmZkf#XDEUrb^v3EMy3zX$oEtOFTl&leonuoEzUF49lbE19SIEyygX4fbYxTau4xMQto6&YyAgJ!^q!X6TfUW!SW7MWfj7Ttgoy0RKRK0t2ehRv^va2Wf^rJIjxeqjt074^uq5k8wib4fj#EC2Q0EKju&5l7cYqlo2ulh1RiF0PUAs8Fbvu8N#NECIzv&kM9KajbZlBNneTiiqF5R@n$b^*ET3E0m#hc^*qSZ^eQKUomQ^iPX^DA%&sbXt5eyuNLEazP!i&KJvEdGwU7NP*hz$t$udg#M%A!&z7hNO*XlqGeuY
+http://tecnotv.club/dc27/android3.php?c=85|User-Agent=tupro
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max_m.png" group-title="CINE",HBO Mundi HD
 http://tecnotv.club/dc27/smartv2.php?c=3299
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max_m.png" group-title="CINE",HBO Mundi
-http://tecnotv.club/dc27/android.php?c=77|User-Agent=W&z3YOr^IDlAWm*k@vgr$X4haJ0K*fPOaB%b2i&ANIH8Dv@m9MZMiFK5Ck&g9s6jNP6&FK*V5%mdF9ml5sW0odNi00X4oCdWRPZmZkf#XDEUrb^v3EMy3zX$oEtOFTl&leonuoEzUF49lbE19SIEyygX4fbYxTau4xMQto6&YyAgJ!^q!X6TfUW!SW7MWfj7Ttgoy0RKRK0t2ehRv^va2Wf^rJIjxeqjt074^uq5k8wib4fj#EC2Q0EKjuW&z3YOr^IDlAWm*k@vgr$X4haJ0K*fPOaB%b2i&ANIH8Dv@m9MZMiFK5Ck&g9s6jNP6&FK*V5%mdF9ml5sW0odNi00X4oCdWRPZmZkf#XDEUrb^v3EMy3zX$oEtOFTl&leonuoEzUF49lbE19SIEyygX4fbYxTau4xMQto6&YyAgJ!^q!X6TfUW!SW7MWfj7Ttgoy0RKRK0t2ehRv^va2Wf^rJIjxeqjt074^uq5k8wib4fj#EC2Q0EKju&5l7cYqlo2ulh1RiF0PUAs8Fbvu8N#NECIzv&kM9KajbZlBNneTiiqF5R@n$b^*ET3E0m#hc^*qSZ^eQKUomQ^iPX^DA%&sbXt5eyuNLEazP!i&KJvEdGwU7NP*hz$t$udg#M%A!&z7hNO*XlqGeuY
+http://tecnotv.club/dc27/android3.php?c=133|User-Agent=tupro
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="CINE",HBO Xtreme HD
 http://tecnotv.club/dc27/smartv2.php?c=3302
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="CINE",HBO Xtreme
-http://tecnotv.club/dc27/android.php?c=82|User-Agent=W&z3YOr^IDlAWm*k@vgr$X4haJ0K*fPOaB%b2i&ANIH8Dv@m9MZMiFK5Ck&g9s6jNP6&FK*V5%mdF9ml5sW0odNi00X4oCdWRPZmZkf#XDEUrb^v3EMy3zX$oEtOFTl&leonuoEzUF49lbE19SIEyygX4fbYxTau4xMQto6&YyAgJ!^q!X6TfUW!SW7MWfj7Ttgoy0RKRK0t2ehRv^va2Wf^rJIjxeqjt074^uq5k8wib4fj#EC2Q0EKjuW&z3YOr^IDlAWm*k@vgr$X4haJ0K*fPOaB%b2i&ANIH8Dv@m9MZMiFK5Ck&g9s6jNP6&FK*V5%mdF9ml5sW0odNi00X4oCdWRPZmZkf#XDEUrb^v3EMy3zX$oEtOFTl&leonuoEzUF49lbE19SIEyygX4fbYxTau4xMQto6&YyAgJ!^q!X6TfUW!SW7MWfj7Ttgoy0RKRK0t2ehRv^va2Wf^rJIjxeqjt074^uq5k8wib4fj#EC2Q0EKju&5l7cYqlo2ulh1RiF0PUAs8Fbvu8N#NECIzv&kM9KajbZlBNneTiiqF5R@n$b^*ET3E0m#hc^*qSZ^eQKUomQ^iPX^DA%&sbXt5eyuNLEazP!i&KJvEdGwU7NP*hz$t$udg#M%A!&z7hNO*XlqGeuY
+http://tecnotv.club/dc27/android3.php?c=132|User-Agent=tupro
 #EXTINF:-1 logo="https://iconape.com/wp-content/png_logo_vector/hbo-pop.png" group-title="CINE",HBO POP HD
-http://tecnotv.club/dc27/smartv2.php?c=3304
+http://tecnotv.club/dc27/lista1.php?c=a0g8
 #EXTINF:-1 logo="https://iconape.com/wp-content/png_logo_vector/hbo-pop.png" group-title="CINE",HBO POP
-http://tecnotv.club/dc27/android.php?c=79|User-Agent=W&z3YOr^IDlAWm*k@vgr$X4haJ0K*fPOaB%b2i&ANIH8Dv@m9MZMiFK5Ck&g9s6jNP6&FK*V5%mdF9ml5sW0odNi00X4oCdWRPZmZkf#XDEUrb^v3EMy3zX$oEtOFTl&leonuoEzUF49lbE19SIEyygX4fbYxTau4xMQto6&YyAgJ!^q!X6TfUW!SW7MWfj7Ttgoy0RKRK0t2ehRv^va2Wf^rJIjxeqjt074^uq5k8wib4fj#EC2Q0EKjuW&z3YOr^IDlAWm*k@vgr$X4haJ0K*fPOaB%b2i&ANIH8Dv@m9MZMiFK5Ck&g9s6jNP6&FK*V5%mdF9ml5sW0odNi00X4oCdWRPZmZkf#XDEUrb^v3EMy3zX$oEtOFTl&leonuoEzUF49lbE19SIEyygX4fbYxTau4xMQto6&YyAgJ!^q!X6TfUW!SW7MWfj7Ttgoy0RKRK0t2ehRv^va2Wf^rJIjxeqjt074^uq5k8wib4fj#EC2Q0EKju&5l7cYqlo2ulh1RiF0PUAs8Fbvu8N#NECIzv&kM9KajbZlBNneTiiqF5R@n$b^*ET3E0m#hc^*qSZ^eQKUomQ^iPX^DA%&sbXt5eyuNLEazP!i&KJvEdGwU7NP*hz$t$udg#M%A!&z7hNO*XlqGeuY
+http://tecnotv.club/dc27/android3.php?c=131|User-Agent=tupro
 #EXTINF:-1 logo="https://i.pinimg.com/originals/38/dc/17/38dc175da482ae589a0de7c44d21f849.png" group-title="CINE",HBO HD 
 http://tecnotv.club/dc27/lista1.php?c=a08o
 #EXTINF:-1 logo="https://i.pinimg.com/originals/38/dc/17/38dc175da482ae589a0de7c44d21f849.png" group-title="CINE",HBO
-http://tecnotv.club/dc27/android.php?c=74|User-Agent=W&z3YOr^IDlAWm*k@vgr$X4haJ0K*fPOaB%b2i&ANIH8Dv@m9MZMiFK5Ck&g9s6jNP6&FK*V5%mdF9ml5sW0odNi00X4oCdWRPZmZkf#XDEUrb^v3EMy3zX$oEtOFTl&leonuoEzUF49lbE19SIEyygX4fbYxTau4xMQto6&YyAgJ!^q!X6TfUW!SW7MWfj7Ttgoy0RKRK0t2ehRv^va2Wf^rJIjxeqjt074^uq5k8wib4fj#EC2Q0EKjuW&z3YOr^IDlAWm*k@vgr$X4haJ0K*fPOaB%b2i&ANIH8Dv@m9MZMiFK5Ck&g9s6jNP6&FK*V5%mdF9ml5sW0odNi00X4oCdWRPZmZkf#XDEUrb^v3EMy3zX$oEtOFTl&leonuoEzUF49lbE19SIEyygX4fbYxTau4xMQto6&YyAgJ!^q!X6TfUW!SW7MWfj7Ttgoy0RKRK0t2ehRv^va2Wf^rJIjxeqjt074^uq5k8wib4fj#EC2Q0EKju&5l7cYqlo2ulh1RiF0PUAs8Fbvu8N#NECIzv&kM9KajbZlBNneTiiqF5R@n$b^*ET3E0m#hc^*qSZ^eQKUomQ^iPX^DA%&sbXt5eyuNLEazP!i&KJvEdGwU7NP*hz$t$udg#M%A!&z7hNO*XlqGeuY
+http://tecnotv.club/dc27/android3.php?c=60|User-Agent=tupro
 #EXTINF:-1 logo="https://i.pinimg.com/originals/38/dc/17/38dc175da482ae589a0de7c44d21f849.png" group-title="CINE",HBO HD
 http://tecnotv.club/dc27/smartv2.php?c=3296
 #EXTINF:-1 logo="https://www.logolynx.com/images/logolynx/s_cd/cd47fb52116f18d99be56ef0457daf36.png" group-title="CINE",HBO 2 HD
 http://tecnotv.club/dc27/smartv2.php?c=3297
 #EXTINF:-1 logo="https://www.logolynx.com/images/logolynx/s_cd/cd47fb52116f18d99be56ef0457daf36.png" group-title="CINE",HBO 2 
-http://tecnotv.club/dc27/android.php?c=75|User-Agent=W&z3YOr^IDlAWm*k@vgr$X4haJ0K*fPOaB%b2i&ANIH8Dv@m9MZMiFK5Ck&g9s6jNP6&FK*V5%mdF9ml5sW0odNi00X4oCdWRPZmZkf#XDEUrb^v3EMy3zX$oEtOFTl&leonuoEzUF49lbE19SIEyygX4fbYxTau4xMQto6&YyAgJ!^q!X6TfUW!SW7MWfj7Ttgoy0RKRK0t2ehRv^va2Wf^rJIjxeqjt074^uq5k8wib4fj#EC2Q0EKjuW&z3YOr^IDlAWm*k@vgr$X4haJ0K*fPOaB%b2i&ANIH8Dv@m9MZMiFK5Ck&g9s6jNP6&FK*V5%mdF9ml5sW0odNi00X4oCdWRPZmZkf#XDEUrb^v3EMy3zX$oEtOFTl&leonuoEzUF49lbE19SIEyygX4fbYxTau4xMQto6&YyAgJ!^q!X6TfUW!SW7MWfj7Ttgoy0RKRK0t2ehRv^va2Wf^rJIjxeqjt074^uq5k8wib4fj#EC2Q0EKju&5l7cYqlo2ulh1RiF0PUAs8Fbvu8N#NECIzv&kM9KajbZlBNneTiiqF5R@n$b^*ET3E0m#hc^*qSZ^eQKUomQ^iPX^DA%&sbXt5eyuNLEazP!i&KJvEdGwU7NP*hz$t$udg#M%A!&z7hNO*XlqGeuY
+http://tecnotv.club/dc27/android3.php?c=63|User-Agent=tupro
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",HBO Family HD
 http://tecnotv.club/dc27/smartv2.php?c=3298
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",HBO Family
-http://tecnotv.club/dc27/android.php?c=76|User-Agent=W&z3YOr^IDlAWm*k@vgr$X4haJ0K*fPOaB%b2i&ANIH8Dv@m9MZMiFK5Ck&g9s6jNP6&FK*V5%mdF9ml5sW0odNi00X4oCdWRPZmZkf#XDEUrb^v3EMy3zX$oEtOFTl&leonuoEzUF49lbE19SIEyygX4fbYxTau4xMQto6&YyAgJ!^q!X6TfUW!SW7MWfj7Ttgoy0RKRK0t2ehRv^va2Wf^rJIjxeqjt074^uq5k8wib4fj#EC2Q0EKjuW&z3YOr^IDlAWm*k@vgr$X4haJ0K*fPOaB%b2i&ANIH8Dv@m9MZMiFK5Ck&g9s6jNP6&FK*V5%mdF9ml5sW0odNi00X4oCdWRPZmZkf#XDEUrb^v3EMy3zX$oEtOFTl&leonuoEzUF49lbE19SIEyygX4fbYxTau4xMQto6&YyAgJ!^q!X6TfUW!SW7MWfj7Ttgoy0RKRK0t2ehRv^va2Wf^rJIjxeqjt074^uq5k8wib4fj#EC2Q0EKju&5l7cYqlo2ulh1RiF0PUAs8Fbvu8N#NECIzv&kM9KajbZlBNneTiiqF5R@n$b^*ET3E0m#hc^*qSZ^eQKUomQ^iPX^DA%&sbXt5eyuNLEazP!i&KJvEdGwU7NP*hz$t$udg#M%A!&z7hNO*XlqGeuY
+http://tecnotv.club/dc27/android3.php?c=62|User-Agent=tupro
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus HD
 http://tecnotv.club/dc27/smartv2.php?c=3300
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus
-http://tecnotv.club/dc27/android3.php?c=59|User-Agent=megapro
+http://tecnotv.club/dc27/android3.php?c=59|User-Agent=tupro
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_hbo-signature_m.png" group-title="CINE",HBO Signature HD
 http://tecnotv.club/dc27/smartv2.php?c=3301
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_hbo-signature_m.png" group-title="CINE",HBO Signature 
-http://tecnotv.club/dc27/android.php?c=80|User-Agent=W&z3YOr^IDlAWm*k@vgr$X4haJ0K*fPOaB%b2i&ANIH8Dv@m9MZMiFK5Ck&g9s6jNP6&FK*V5%mdF9ml5sW0odNi00X4oCdWRPZmZkf#XDEUrb^v3EMy3zX$oEtOFTl&leonuoEzUF49lbE19SIEyygX4fbYxTau4xMQto6&YyAgJ!^q!X6TfUW!SW7MWfj7Ttgoy0RKRK0t2ehRv^va2Wf^rJIjxeqjt074^uq5k8wib4fj#EC2Q0EKjuW&z3YOr^IDlAWm*k@vgr$X4haJ0K*fPOaB%b2i&ANIH8Dv@m9MZMiFK5Ck&g9s6jNP6&FK*V5%mdF9ml5sW0odNi00X4oCdWRPZmZkf#XDEUrb^v3EMy3zX$oEtOFTl&leonuoEzUF49lbE19SIEyygX4fbYxTau4xMQto6&YyAgJ!^q!X6TfUW!SW7MWfj7Ttgoy0RKRK0t2ehRv^va2Wf^rJIjxeqjt074^uq5k8wib4fj#EC2Q0EKju&5l7cYqlo2ulh1RiF0PUAs8Fbvu8N#NECIzv&kM9KajbZlBNneTiiqF5R@n$b^*ET3E0m#hc^*qSZ^eQKUomQ^iPX^DA%&sbXt5eyuNLEazP!i&KJvEdGwU7NP*hz$t$udg#M%A!&z7hNO*XlqGeuY
+http://tecnotv.club/dc27/android3.php?c=61|User-Agent=tupro
 #EXTINF:-1 tvg-id="480" tvg-name="EvaStream" tvg-logo="https://www.m3u.cl/logo/480_EvaStream.png", EvaStream
 https://stmv.panel.mivideo.pro/evastream/evastream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1016" tvg-name="Planetatv Movie" tvg-logo="https://www.m3u.cl/logo/1016_Planetatv_Movie.png", Planetatv Movie
