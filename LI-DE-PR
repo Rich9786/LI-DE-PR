@@ -349,10 +349,8 @@ http://tecnotv.club/2ene/geomex.php?c=201&p=3&k=tecnotv&f=.m3u8
 http://tecnotv.club/2ene/geomex.php?c=46&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel HD S2-IND
 http://tecnotv.club/2ene/lista1.php?c=a0ao
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="SERIES Y CINE",SONY HD S1
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="SERIES Y CINE",SONY HD S-IND
 http://tecnotv.club/2ene/lista1.php?c=a06d
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="SERIES Y CINE",SONY HD S2
-http://tecnotv.club/2ene/smartv2.php?c=3118
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="SERIES Y CINE",SONY S-IND 
 http://tecnotv.club/2ene/geomex.php?c=48&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/26ba2241-cf4e-42a7-b0e8-c8bbd06392c9_m.jpg" group-title="SERIES Y CINE",WARNER HD 
@@ -363,8 +361,6 @@ http://tecnotv.club/2ene/geomex.php?c=52&p=3&k=tecnotv&f=.m3u8
 http://tecnotv.club/2ene/lista1.php?c=a0ap
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet-thumbnail.png" group-title="SERIES Y CINE",UNIVERSAL
 http://tecnotv.club/2ene/geomex.php?c=57&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 logo="https://storage.googleapis.com/codigo_bucket/wp-content/uploads/2017/07/syfy_2017_logo_stacked.png" group-title="SERIES Y CINE",SYFY HD
-http://tecnotv.club/2ene/smartv2.php?c=3122
 #EXTINF:-1 logo="https://storage.googleapis.com/codigo_bucket/wp-content/uploads/2017/07/syfy_2017_logo_stacked.png" group-title="SERIES Y CINE",SYFY
 http://tecnotv.club/2ene/geomex.php?c=59&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="http://2.bp.blogspot.com/-zcucF0qj2Bk/TwsmA-DQKNI/AAAAAAAARp8/OrDuNhamWbY/s1600/fxhd.png" group-title="SERIES Y CINE",FX HD
@@ -378,7 +374,7 @@ http://tecnotv.club/2ene/geomex.php?c=62&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="SERIES Y CINE",AXN HD
 http://tecnotv.club/2ene/lista1.php?c=a06f
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="SERIES Y CINE",AXN
-http://tecnotv.club/2ene/android3.php?c=2|User-Agent=megapro
+http://tecnotv.club/2ene/android3.php?c=2|User-Agent=tupro
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="CINE Y SERIES",TNT SERIES HD
 http://tecnotv.club/2ene/lista1.php?c=a0bf
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="CINE Y SERIES",TNT SERIES
