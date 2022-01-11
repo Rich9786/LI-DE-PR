@@ -530,8 +530,8 @@ http://clubtv.link/10n/geomex.php?c=62&f=.m3u8
 http://clubtv.link/10n/geomex2.php?c=62&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="SERIES Y CINE",AXN - GANDR 3
 http://clubtv.link/10n/android3.php?c=2|User-Agent=tupro
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="SERIES Y CINE",AXN - 
-
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="SERIES Y CINE",AXN - LIS 5
+http://clubtv.link/10n/lista5.php?c=146&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="CINE Y SERIES",TNT SERIES - GEO 
 http://clubtv.link/10n/geomex.php?c=71&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="CINE Y SERIES",TNT SERIES - GEO 2
