@@ -370,9 +370,9 @@ http://clubtv.link/10n/smartv.php?c=h2&f=.m3u8
 http://clubtv.link/10n/lista5.php?c=61&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://w1.pngwing.com/pngs/818/201/png-transparent-tv-logo-cable-television-hgtv-organization-blue-text-line-thumbnail.png" group-title="TV PREMIUM 2",HGTV 
 http://clubtv.link/10n/android.php?c=100|User-Agent=W&z3YOr^IDlAWm*k@vgr$X4haJ0K*fPOaB%b2i&ANIH8Dv@m9MZMiFK5Ck&g9s6jNP6&FK*V5%mdF9ml5sW0odNi00X4oCdWRPZmZkf#XDEUrb^v3EMy3zX$oEtOFTl&leonuoEzUF49lbE19SIEyygX4fbYxTau4xMQto6&YyAgJ!^q!X6TfUW!SW7MWfj7Ttgoy0RKRK0t2ehRv^va2Wf^rJIjxeqjt074^uq5k8wib4fj#EC2Q0EKjuW&z3YOr^IDlAWm*k@vgr$X4haJ0K*fPOaB%b2i&ANIH8Dv@m9MZMiFK5Ck&g9s6jNP6&FK*V5%mdF9ml5sW0odNi00X4oCdWRPZmZkf#XDEUrb^v3EMy3zX$oEtOFTl&leonuoEzUF49lbE19SIEyygX4fbYxTau4xMQto6&YyAgJ!^q!X6TfUW!SW7MWfj7Ttgoy0RKRK0t2ehRv^va2Wf^rJIjxeqjt074^uq5k8wib4fj#EC2Q0EKju&5l7cYqlo2ulh1RiF0PUAs8Fbvu8N#NECIzv&kM9KajbZlBNneTiiqF5R@n$b^*ET3E0m#hc^*qSZ^eQKUomQ^iPX^DA%&sbXt5eyuNLEazP!i&KJvEdGwU7NP*hz$t$udg#M%A!&z7hNO*XlqGeuY
-#EXTINF:-1 logo="https://www.televall.online/gallery/natgeo_thumb.png" group-title="MUNDO Y CULTURA",NAT GEO - GEO 
+#EXTINF:-1 logo="https://static.nationalgeographicla.com/files/styles/image_3200/public/NGlogo2.png?w=1600&h=977" group-title="MUNDO Y CULTURA",NAT GEO - GEO 
 http://clubtv.link/10n/geomex.php?c=91&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/natgeo_thumb.png" group-title="MUNDO Y CULTURA",NAT GEO - GEO 2  
+#EXTINF:-1 logo="https://static.nationalgeographicla.com/files/styles/image_3200/public/NGlogo2.png?w=1600&h=977" group-title="MUNDO Y CULTURA",NAT GEO - GEO 2  
 http://clubtv.link/10n/geomex2.php?c=91&f=.m3u8
 #EXTINF:-1 logo="https://img2.freepng.es/20180516/fww/kisspng-nat-geo-wild-national-geographic-television-channe-live-stream-5afcbccd447341.5207558215265128452804.jpg" group-title="MUNDO Y CULTURA",NAT GEO WILD - GEO
 http://clubtv.link/10n/geomex.php?c=92&f=.m3u8
