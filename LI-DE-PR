@@ -299,41 +299,72 @@ https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?PlaylistM3UCL
 http://clubtv.link/10n/geomex.php?c=112v
 #EXTINF:-1 logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="INFANTIL",CARTOON NETWORK - GEO 2
 http://clubtv.link/10n/geomex2.php?c=112v
+#EXTINF:-1 logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="INFANTIL",CARTOON NETWORK - TV
+http://45.181.122.17:8000/play/a02m
+#EXTINF:-1 logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="INFANTIL",CARTOON NETWORK - MX
+http://regioplay.xyz/php/SR_REGIO_101022_/tpa.php?c=112&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/84lq03p.jpg" group-title="INFANTIL",DISNEY CHANNEL - GEO
 http://clubtv.link/10n/geomex.php?c=113&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/84lq03p.jpg" group-title="INFANTIL",DISNEY CHANNEL - GEO 2
 http://clubtv.link/10n/geomex2.php?c=113&f=.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/84lq03p.jpg" group-title="INFANTIL",DISNEY CHANNEL - TV
+http://45.181.122.17:8000/play/a00j
+#EXTINF:-1 logo="https://i.imgur.com/84lq03p.jpg" group-title="INFANTIL",DISNEY CHANNEL - MX
+http://regioplay.xyz/php/SR_REGIO_101022_/tpa.php?c=113&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 logo="https://www.latercera.com/resizer/VVzHKMrD-jH2UFZfnE9s-Cyv_D4=/1023x682/smart/cloudfront-us-east-1.images.arcpublishing.com/copesa/NNHASRIGRRBYRABSIP3HGH5U4A.jpg" group-title="INFANTIL",CARTOONITO (BOOMERANG) - GEO
 http://clubtv.link/10n/geomex.php?c=115&f=.m3u8
 #EXTINF:-1 logo="https://www.latercera.com/resizer/VVzHKMrD-jH2UFZfnE9s-Cyv_D4=/1023x682/smart/cloudfront-us-east-1.images.arcpublishing.com/copesa/NNHASRIGRRBYRABSIP3HGH5U4A.jpg" group-title="INFANTIL",CARTOONITO (BOOMERANG) - GEO 2
 http://clubtv.link/10n/geomex2.php?c=115&f=.m3u8
+#EXTINF:-1 logo="https://www.latercera.com/resizer/VVzHKMrD-jH2UFZfnE9s-Cyv_D4=/1023x682/smart/cloudfront-us-east-1.images.arcpublishing.com/copesa/NNHASRIGRRBYRABSIP3HGH5U4A.jpg" group-title="INFANTIL",CARTOONITO (BOOMERANG) - MX
+http://regioplay.xyz/php/SR_REGIO_101022_/tpa.php?c=115&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/n3eZIO3.png" group-title="INFANTIL",BABY TV - GEO
 http://clubtv.link/10n/geomex.php?c=116&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/n3eZIO3.png" group-title="INFANTIL",BABY TV - GEO 2
 http://clubtv.link/10n/geomex2.php?c=116&f=.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/n3eZIO3.png" group-title="INFANTIL",BABY TV - MX
+http://regioplay.xyz/php/SR_REGIO_101022_/tpa.php?c=116&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/rhHtS3j.jpg" group-title="INFANTIL",NICK JR - GEO
 http://clubtv.link/10n/geomex.php?c=117&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/rhHtS3j.jpg" group-title="INFANTIL",NICK JR - GEO 2
 http://clubtv.link/10n/geomex2.php?c=117&f=.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/rhHtS3j.jpg" group-title="INFANTIL",NICK JR - TV
+http://45.181.122.17:8000/play/a00e
+#EXTINF:-1 logo="https://i.imgur.com/rhHtS3j.jpg" group-title="INFANTIL",NICK JR - MX
+http://regioplay.xyz/php/SR_REGIO_101022_/tpa.php?c=117&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/9FOKuui.jpg" group-title="INFANTIL",DISNEY JR - GEO
 http://clubtv.link/10n/geomex.php?c=118&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/9FOKuui.jpg" group-title="INFANTIL",DISNEY JR - GEO 2
 http://clubtv.link/10n/geomex2.php?c=118&f=.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/9FOKuui.jpg" group-title="INFANTIL",DISNEY JR - TV
+http://45.181.122.17:8000/play/a01k
+#EXTINF:-1 logo="https://i.imgur.com/9FOKuui.jpg" group-title="INFANTIL",DISNEY JR - MX
+http://regioplay.xyz/php/SR_REGIO_101022_/tpa.php?c=118&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 logo="https://i2.wp.com/fontlot.com/wp-content/uploads/2021/06/3-4.jpg?fit=798%2C799&ssl=1" group-title="INFANTIL",BABY FIRST - GEO
 http://clubtv.link/10n/geomex.php?c=1984&f=.m3u8
 #EXTINF:-1 logo="https://i2.wp.com/fontlot.com/wp-content/uploads/2021/06/3-4.jpg?fit=798%2C799&ssl=1" group-title="INFANTIL",BABY FIRST - GEO 2
 http://clubtv.link/10n/geomex2.php?c=1984&f=.m3u8
+#EXTINF:-1 logo="https://i2.wp.com/fontlot.com/wp-content/uploads/2021/06/3-4.jpg?fit=798%2C799&ssl=1" group-title="INFANTIL",BABY FIRST - MX
+http://regioplay.xyz/php/SR_REGIO_101022_/tpa.php?c=1984&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/bDD2PT7.jpg" group-title="INFANTIL",NAT GEO KIDS - GEO 
 http://clubtv.link/10n/geomex.php?c=2373&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/bDD2PT7.jpg" group-title="INFANTIL",NAT GEO KIDS - GEO 2  
 http://clubtv.link/10n/geomex2.php?c=2373&f=.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/bDD2PT7.jpg" group-title="INFANTIL",NAT GEO KIDS - TV
+http://45.181.122.17:8000/play/a02l
+#EXTINF:-1 logo="https://i.imgur.com/bDD2PT7.jpg" group-title="INFANTIL",NAT GEO KIDS - MX
+http://regioplay.xyz/php/SR_REGIO_101022_/tpa.php?c=2373&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1347112024925474817/FsTxCmRL_400x400.jpg" group-title="INFANTIL",BIT ME - GEO
 http://clubtv.link/10n/geomex.php?c=2591&f=.m3u8
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1347112024925474817/FsTxCmRL_400x400.jpg" group-title="INFANTIL",BIT ME - GEO 2
 http://clubtv.link/10n/geomex2.php?c=2591&f=.m3u8
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1347112024925474817/FsTxCmRL_400x400.jpg" group-title="INFANTIL",BIT ME HD - MX 
+http://regioplay.xyz/php/SR_REGIO_101022_/tpa.php?c=2591&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1461545043022553089/hYHGCePB_400x400.jpg" group-title="INFANTIL",ENERGEEK - ANDR
+https://stmv1.voxhdnet.com/energeek/energeek/chunklist_w959585101.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="Chavo TV" tvg-logo="https://www.m3u.cl/logo/46_Chavo_TV.png", Chavo TV | CL
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
-
+#EXTINF:-1 tvg-id="46" tvg-name="Chavo TV" tvg-logo="https://www.m3u.cl/logo/46_Chavo_TV.png", Chavo TV - ANDR
+https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
 
 
 
