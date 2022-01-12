@@ -1148,7 +1148,7 @@ http://clubtv.link/10n/lista5.php?c=402&f=.m3u8
 http://clubtv.link/10n/lista5.php?c=410&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTES",FOX SPORTS 3 SUR - LIS 5
 http://clubtv.link/10n/lista5.php?c=511&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premiun" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-premium_m.png" group-title="DEPORTES",Fox Sports Premiun - LIS 5
+#EXTINF:-1 tvg-id="" tvg-name="Fox sports premiun" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3951.png" group-title="DEPORTES",Fox sports premiun - LIS 5
 http://clubtv.link/10n/lista5.php?c=512&f=.m3u8
 #EXTINF:-1 logo="https://televisa.brightspotcdn.com/dims4/default/dfb2a13/2147483647/strip/true/crop/1000x750+0+50/resize/716x537!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F7e%2F02%2F46d2d9304ca9b8e8f4a2828d05a6%2Ftudn.png" group-title="DEPORTES",TUDN HD - GEO
 http://clubtv.link/10n/geomex.php?c=1049&f=.m3u8
