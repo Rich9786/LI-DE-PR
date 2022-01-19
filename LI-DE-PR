@@ -895,7 +895,7 @@ http://45.181.122.17:8000/play/a00u
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="SERIES Y CINE",AXN HD - LIS 3
 http://clubtv.link/nn17/lista3.php?c=476
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="SERIES Y CINE",AXN - GANDR 3
-http://clubtv.link/nn17/android3.php?c=2|User-Agent=tupro
+http://clubtv.link/nn17/android3.php?c=2|User-Agent=espro
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="SERIES Y CINE",AXN - LIS 5
 http://clubtv.link/nn17/lista5.php?c=146&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="SERIES Y CINE",AXN - TV
