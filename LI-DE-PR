@@ -39,7 +39,7 @@ http://clubtv.link/fb3/android3.php?c=110|User-Agent=megaplayer
 
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" nada="Entretenimiento" group-title="TV PREMIUM",A&E
-http://clubtv.link/fb3/lista1.php?c=|User-Agent=megaplayer
+http://clubtv.link/fb3/lista1.php?c=1&f=.m3u
 
 
 
