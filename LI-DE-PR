@@ -1108,20 +1108,6 @@ http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=201&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=46&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/yA2sydz.png" group-title="SERIES Y CINE",Star Channel - TV
 http://45.181.122.17:8000/play/a02j
-#EXTINF:-1 logo="https://i.imgur.com/ZBgJDA2.png" group-title="CINE",Star Series HD - LIS 1
-http://clubtv.link/fb3/lista1.php?c=492&f=.m3u8
-#EXTINF:-1 logo="https://i.imgur.com/ZBgJDA2.png" group-title="CINE",Star Series - LIS 1
-http://clubtv.link/fb3/lista1.php?c=303&f=.m3u8
-#EXTINF:-1 logo="https://i.imgur.com/ZBgJDA2.png" group-title="CINE",Star Series - GEO 
-http://clubtv.link/fb3/geomex.php?c=139&f=.m3u8
-#EXTINF:-1 logo="https://i.imgur.com/ZBgJDA2.png" group-title="CINE",Star Series - GEO 2
-http://clubtv.link/fb3/geomex2.php?c=139&f=.m3u8
-#EXTINF:-1 logo="https://i.imgur.com/ZBgJDA2.png" group-title="CINE",Star Series - GEO 3 
-http://clubtv.link/fb3/geomex3.php?c=139&f=.m3u8
-#EXTINF:-1 logo="https://i.imgur.com/ZBgJDA2.png" group-title="CINE",Star Series - MX
-http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=139&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 logo="https://i.imgur.com/ZBgJDA2.png" group-title="CINE",Star Series - ANDR
-http://regioplay.xyz/php/SR_REGIO_402022_/regiotv2.php?c=78|User-Agent=megapro
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="SERIES Y CINE",SONY HD - LIS 1
 http://clubtv.link/fb3/lista1.php?c=498&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="SERIES Y CINE",SONY - GEO
@@ -1599,57 +1585,71 @@ http://clubtv.link/fb3/lista1.php?c=680&f=.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_encorefamily.png" group-title="Peliculas",Starz Encore Family - LIS 1
 http://clubtv.link/fb3/lista1.php?c=684&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/4krdlGM.png" group-title="CINE",Star Action HD - LIS 1
-http://clubtv.link/fb3/lista1.php?c=490&f=.m3u8
+
 #EXTINF:-1 logo="https://i.imgur.com/4krdlGM.png" group-title="CINE",Star Action - LIS 1
-http://clubtv.link/fb3/lista1.php?c=46&f=.m3u8
+
 #EXTINF:-1 logo="https://i.imgur.com/4krdlGM.png" group-title="CINE",Star Action - GEO
-http://clubtv.link/fb3/geomex.php?c=336&f=.m3u8
+
 #EXTINF:-1 logo="https://i.imgur.com/4krdlGM.png" group-title="CINE",Star Action - GEO 2
-http://clubtv.link/fb3/geomex2.php?c=336&f=.m3u8
+
 #EXTINF:-1 logo="https://i.imgur.com/4krdlGM.png" group-title="CINE",Star Action - GEO 3
-http://clubtv.link/fb3/geomex3.php?c=336&f=.m3u8
+
 #EXTINF:-1 logo="https://i.imgur.com/4krdlGM.png" group-title="CINE",Star Action - MX
-http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=336&p=3&k=srregio&f=.m3u8
+
 #EXTINF:-1 logo="https://i.imgur.com/4krdlGM.png" group-title="CINE",Star Action S1 - ANDR
-http://regioplay.xyz/php/SR_REGIO_402022_/regiotv2.php?c=89|User-Agent=megapro
+
 #EXTINF:-1 logo="https://i.imgur.com/4krdlGM.png" group-title="CINE",Star Action S2 - ANDR
-http://regioplay.xyz/php/SR_REGIO_402022_/regiotv2.php?c=90|User-Agent=megapro
+
 #EXTINF:-1 logo="https://i.imgur.com/u2lgAVF.png" group-title="CINE",Star Cinema - LIS 1
-http://clubtv.link/fb3/lista1.php?c=47&f=.m3u8
+
 #EXTINF:-1 logo="https://i.imgur.com/u2lgAVF.png" group-title="CINE",Star Cinema - GEO
-http://clubtv.link/fb3/geomex.php?c=1729&f=.m3u8
+
 #EXTINF:-1 logo="https://i.imgur.com/u2lgAVF.png" group-title="CINE",Star Cinema - GEO 2
-http://clubtv.link/fb3/geomex2.php?c=1729&f=.m3u8
+
 #EXTINF:-1 logo="https://i.imgur.com/u2lgAVF.png" group-title="CINE",Star Cinema - GEO 3
-http://clubtv.link/fb3/geomex3.php?c=1729&f=.m3u8
+
 #EXTINF:-1 logo="https://i.imgur.com/u2lgAVF.png" group-title="CINE",Star Cinema - MX
-http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=1729&p=3&k=srregio&f=.m3u8
+
 #EXTINF:-1 logo="https://i.imgur.com/qLXeX12.png" group-title="CINE",Star Classics - LIS 1
-http://clubtv.link/fb3/lista1.php?c=48&f=.m3u8
+
 #EXTINF:-1 logo="https://i.imgur.com/qLXeX12.png" group-title="CINE",Star Classics - GEO
-http://clubtv.link/fb3/geomex.php?c=1732&f=.m3u8
+
 #EXTINF:-1 logo="https://i.imgur.com/qLXeX12.png" group-title="CINE",Star Classics - GEO 2
-http://clubtv.link/fb3/geomex2.php?c=1732&f=.m3u8
+
 #EXTINF:-1 logo="https://i.imgur.com/qLXeX12.png" group-title="CINE",Star Classics - GEO 3
-http://clubtv.link/fb3/geomex3.php?c=1732&f=.m3u8
+
 #EXTINF:-1 logo="https://i.imgur.com/qLXeX12.png" group-title="CINE",Star Classics - MX
-http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=1732&p=3&k=srregio&f=.m3u8
+
 #EXTINF:-1 logo="https://i.imgur.com/qLXeX12.png" group-title="CINE",Star Classics - ANDR
-http://regioplay.xyz/php/SR_REGIO_402022_/regiotv2.php?c=86|User-Agent=megapro
+
 #EXTINF:-1 logo="https://i.imgur.com/O5IvT7k.png" group-title="CINE",Star Hits HD - LIS 1
-http://clubtv.link/fb3/lista1.php?c=491&f=.m3u8
+
 #EXTINF:-1 logo="https://i.imgur.com/O5IvT7k.png" group-title="CINE",Star Hits - LIS 1
-http://clubtv.link/fb3/lista1.php?c=51&f=.m3u8
+
 #EXTINF:-1 logo="https://i.imgur.com/O5IvT7k.png" group-title="CINE",Star Hits - GEO
-http://clubtv.link/fb3/geomex.php?c=146&f=.m3u8
+
 #EXTINF:-1 logo="https://i.imgur.com/O5IvT7k.png" group-title="CINE",Star Hits - GEO 2
-http://clubtv.link/fb3/geomex2.php?c=146&f=.m3u8
+
 #EXTINF:-1 logo="https://i.imgur.com/O5IvT7k.png" group-title="CINE",Star Hits - GEO 3
-http://clubtv.link/fb3/geomex3.php?c=146&f=.m3u8
+
 #EXTINF:-1 logo="https://i.imgur.com/O5IvT7k.png" group-title="CINE",Star Hits - MX
-http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=146&p=3&k=srregio&f=.m3u8
+
 #EXTINF:-1 logo="https://i.imgur.com/O5IvT7k.png" group-title="CINE",Star Hits - ANDR
-http://regioplay.xyz/php/SR_REGIO_402022_/regiotv2.php?c=81|User-Agent=megapro
+
+#EXTINF:-1 logo="https://i.imgur.com/ZBgJDA2.png" group-title="CINE",Star Series HD - LIS 1
+
+#EXTINF:-1 logo="https://i.imgur.com/ZBgJDA2.png" group-title="CINE",Star Series - LIS 1
+
+#EXTINF:-1 logo="https://i.imgur.com/ZBgJDA2.png" group-title="CINE",Star Series - GEO 
+
+#EXTINF:-1 logo="https://i.imgur.com/ZBgJDA2.png" group-title="CINE",Star Series - GEO 2
+
+#EXTINF:-1 logo="https://i.imgur.com/ZBgJDA2.png" group-title="CINE",Star Series - GEO 3 
+
+#EXTINF:-1 logo="https://i.imgur.com/ZBgJDA2.png" group-title="CINE",Star Series - MX
+
+#EXTINF:-1 logo="https://i.imgur.com/ZBgJDA2.png" group-title="CINE",Star Series - ANDR
+
 #EXTINF:-1 logo="https://i.imgur.com/49Z7vBe.png" group-title="CINE",Star Fun - LIS 1
 
 #EXTINF:-1 logo="https://i.imgur.com/49Z7vBe.png" group-title="CINE",Star Fun - LIS 5
@@ -1657,7 +1657,7 @@ http://regioplay.xyz/php/SR_REGIO_402022_/regiotv2.php?c=81|User-Agent=megapro
 #EXTINF:-1 logo="https://i.imgur.com/49Z7vBe.png" group-title="CINE",Star Fun - GANDR 3
 
 #EXTINF:-1 logo="https://i.imgur.com/49Z7vBe.png" group-title="CINE",Star Fun - ANDR 
-http://regioplay.xyz/php/SR_REGIO_402022_/regiotv2.php?c=84|User-Agent=megapro
+
 #EXTINF:-1 logo="https://i.imgur.com/U5TMnGD.png" group-title="CINE",Star Comedy - GANDR
 
 #EXTINF:-1 logo="https://i.imgur.com/U5TMnGD.png" group-title="CINE",Star Comedy - GANDR 3
