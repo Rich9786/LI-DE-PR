@@ -613,16 +613,16 @@ http://45.181.122.17:8000/play/a02b
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=89&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY - ANDR
 http://regioplay.xyz/php/SR_REGIO_402022_/regiotv2.php?c=56|User-Agent=megapro
+#EXTINF:-1 logo="https://i.imgur.com/ypR4tvy.jpg" group-title="MUNDO Y CULTURA",H2 - GANDR 2
+http://clubtv.link/10fb/android2.php?c=55|User-Agent=megapro
 #EXTINF:-1 logo="https://i.imgur.com/ypR4tvy.jpg" group-title="MUNDO Y CULTURA",H2 - GANDR 3
 http://clubtv.link/10fb/android3.php?c=55|User-Agent=megapro
-#EXTINF:-1 logo="https://i.imgur.com/ypR4tvy.jpg" group-title="MUNDO Y CULTURA",H2 - LIS 1
-
 #EXTINF:-1 logo="https://i.imgur.com/ypR4tvy.jpg" group-title="MUNDO Y CULTURA",H2 SUR - LIS 1
 
 #EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://w1.pngwing.com/pngs/818/201/png-transparent-tv-logo-cable-television-hgtv-organization-blue-text-line-thumbnail.png" group-title="TV PREMIUM 2",HGTV - GANDR 3
 http://clubtv.link/10fb/android3.php?c=325|User-Agent=megapro
 #EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://w1.pngwing.com/pngs/818/201/png-transparent-tv-logo-cable-television-hgtv-organization-blue-text-line-thumbnail.png" group-title="TV PREMIUM 2",HGTV - LIS 1
-http://clubtv.link/10fb/lista1.php?c=23&f=.m3u8
+
 #EXTINF:-1 logo="https://www.marketingdirecto.com/wp-content/uploads/2012/12/national-geographic.jpg" group-title="MUNDO Y CULTURA",NAT GEO HD - LIS 1
 
 #EXTINF:-1 logo="https://www.marketingdirecto.com/wp-content/uploads/2012/12/national-geographic.jpg" group-title="MUNDO Y CULTURA",NAT GEO - GEO 
