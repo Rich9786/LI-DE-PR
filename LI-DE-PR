@@ -931,8 +931,8 @@ http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=1499&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_422022_/regiotv2.php?c=104|User-Agent=suplayer
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/960px-Logo_UniM%C3%A1s.svg.png" group-title="ENTRETENIMIENTO",UNIMAS - GDEPOR
 http://clubtv.link/f26/sport.php?c=unimas&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://brandemia.org/contenido/subidas/2014/03/galavision_marca.jpg" group-title="ENTRETENIMIENTO",GALAVISION - GDEPOR
-
+#EXTINF:-1 logo="https://brandemia.org/contenido/subidas/2014/03/galavision_marca.jpg" group-title="ENTRETENIMIENTO",GALAVISION - TV
+http://regioplay.xyz/php/SR_REGIO_422022_/regio22dd.php?c=galavision&k=&f=.m3u8
 #EXTINF:-1 logo="https://brandemia.org/contenido/subidas/2014/03/galavision_marca.jpg" group-title="ENTRETENIMIENTO",GALAVISION - LIS 2
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="ENTRETENIMIENTO",ESTRELLA TV
@@ -2747,7 +2747,7 @@ http://clubtv.link/f26/lista2.php?c=a063&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRoRtyDS60SO2G2feh5WUUuLcCbW8YPPurEUjMOkHphIWrH69sXP66e-fVKwImoYRWdjI&usqp=CAU" group-title="DEPORTES",ESPN 2 MX - LIS 1
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRoRtyDS60SO2G2feh5WUUuLcCbW8YPPurEUjMOkHphIWrH69sXP66e-fVKwImoYRWdjI&usqp=CAU" group-title="DEPORTES",ESPN 2 - TV
-
+http://regioplay.xyz/php/SR_REGIO_422022_/regio22dd.php?c=espn2-mx&k=&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRoRtyDS60SO2G2feh5WUUuLcCbW8YPPurEUjMOkHphIWrH69sXP66e-fVKwImoYRWdjI&usqp=CAU" group-title="DEPORTES",ESPN 2 - MX
 http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=168&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRoRtyDS60SO2G2feh5WUUuLcCbW8YPPurEUjMOkHphIWrH69sXP66e-fVKwImoYRWdjI&usqp=CAU" group-title="DEPORTES",ESPN 2 - ANDR
@@ -2825,7 +2825,7 @@ http://clubtv.link/f26/lista2.php?c=a061&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/NDWwKQI.jpg" group-title="DEPORTES",FOX SPORTS SUR - LIS 1
 
 #EXTINF:-1 logo="https://i.imgur.com/NDWwKQI.jpg" group-title="DEPORTES",FOX SPORTS - TV
-
+http://regioplay.xyz/php/SR_REGIO_422022_/regio22dd.php?c=foxsports1-mx&k=&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/NDWwKQI.jpg" group-title="DEPORTES",FOX SPORTS - MX
 http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=170&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/NDWwKQI.jpg" group-title="DEPORTES",FOX SPORTS - ANDR
@@ -2851,7 +2851,7 @@ http://regioplay.xyz/php/SR_REGIO_422022_/regiotv2.php?c=74|User-Agent=suplayer
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTES",FOX SPORTS 3 - Lis 2
 http://clubtv.link/f26/lista2.php?c=a00w&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTES",FOX SPORTS 3 - TV
-
+http://regioplay.xyz/php/SR_REGIO_422022_/regio22dd.php?c=foxsports3-mx&k=&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTES",FOX SPORTS 3 - MX
 http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=178&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES",FOX SPORTS 2 SUR - LIS 5
@@ -2993,7 +2993,7 @@ http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=2564&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gol TV" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/eluniverso/BK3RHIMPUNGUVF7MOXSQKVKMAQ.jpg" group-title="DEPORTES",Gol TV INTERNACIONAL - LIS 1
 
 #EXTINF:-1 tvg-id="" tvg-name="Gol TV" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/eluniverso/BK3RHIMPUNGUVF7MOXSQKVKMAQ.jpg" group-title="DEPORTES",Gol TV INTERNACIONAL - TV
-
+http://regioplay.xyz/php/SR_REGIO_422022_/regio22dd.php?c=goltv&k=&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="DEPORTES",Tigo Sports 1 - GANDR 2
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="DEPORTES",Tigo Sports 1 - GANDR 3
