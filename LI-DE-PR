@@ -1683,6 +1683,8 @@ http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=121&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://iteleflix.com/archivos/Logo-Univers-TV.jpeg" group-title="C. Valenciana" tvg-name="Univers TV",Univers TV - TDT
 https://cloud3.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
+#EXTINF:-1 logo="https://televisiongratisenvivo.com/wp-content/uploads/2018/09/CLARO-CINEMA-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg" group-title="CINE",CLARO CINEMA - LIS 2
+http://clubtv.link/31fin/dd19/lista2.php?c=a0ir&f=.m3u8
 #EXTINF:-1 logo="https://www.televisiongratishd.com/img/azcinema.png" group-title="CINE",AZ CINEMA - GEO
 http://clubtv.link/31fin/dd19/geomex.php?c=1787&f=.m3u8
 #EXTINF:-1 logo="https://www.televisiongratishd.com/img/azcinema.png" group-title="CINE",AZ CINEMA - GEO 2
@@ -1691,12 +1693,8 @@ http://clubtv.link/31fin/dd19/geomex2.php?c=1787&f=.m3u8
 
 #EXTINF:-1 logo="https://www.televisiongratishd.com/img/azcinema.png" group-title="CINE",AZ CINEMA - LIS 1
 
-#EXTINF:-1 logo="https://televisiongratisenvivo.com/wp-content/uploads/2018/09/CLARO-CINEMA-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg" group-title="CINE",CLARO CINEMA - LIS 2
-http://clubtv.link/31fin/dd19/lista2.php?c=a0ir&f=.m3u8
 #EXTINF:-1 logo="https://www.televisiongratishd.com/img/azcinema.png" group-title="CINE",AZ CINEMA - MX
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=1787&p=3&k=srregio&f=.m3u8
-
-
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1304564443192406016/SDsQY5e4.jpg" group-title="CINE Y SERIES",MORBIDO - GEO
 http://clubtv.link/31fin/dd19/geomex.php?c=140&f=.m3u8
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1304564443192406016/SDsQY5e4.jpg" group-title="CINE Y SERIES",MORBIDO - GEO 2
