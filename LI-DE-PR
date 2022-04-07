@@ -1367,8 +1367,6 @@ https://bst.buin.cl/0.m3u8?PlaylistM3UCL
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="478" tvg-name="Telesistema" tvg-logo="https://www.m3u.cl/logo/478_Telesistema.png", Telesistema | CR
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="TeleredTelevision.cr" tvg-country="CR" tvg-language="" tvg-logo="https://i.imgur.com/iO6qmgY.png" group-title="Costa Rica",Telered Television - (SERIES RETRO)
-http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
 #EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel HD - LIS 1
 
 #EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel HD - GEO
