@@ -727,8 +727,6 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 #EXTINF:-1 tvg-id="StreetMusic4U.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/DVfEmq7.png" group-title="MUNDO Y CULTURA",Street Music HD
 https://59d39900ebfb8.streamlock.net/streetmusic/streetmusic/playlist.m3u8
-#EXTINF:-1 tvg-id="PMCRoyale.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/srVaOna.png" group-title="Iran",PMC Royale (720p)
-http://51.210.199.29/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/FTV/picture?width=200&height=200" group-title="Int. Otros" tvg-name="Fashion TV",Fashion TV - TDT
 https://publica.cloudycdn.services/playlist.m3u8?network_id=569
 #EXTINF:-1 tvg-id="WorldFashionChannel.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/JyslMHb.jpg" group-title="International",World Fashion Channel (1080p)
@@ -1089,6 +1087,8 @@ http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=215&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=105|User-Agent=suplayer
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/hn_tru-tv_m.png" group-title="ENTRETENIMIENTO",TRUTV - MX
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=79&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="PMCRoyale.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/srVaOna.png" group-title="Iran",PMC Royale (720p)
+http://51.210.199.29/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1j2zatC.png" group-title="USA",Global Got Talent
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugottalentglobal/CDN/playlist.m3u8?p=roku
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gV2Vmr9.png" group-title="USA",FailArmy
