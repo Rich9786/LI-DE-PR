@@ -371,92 +371,92 @@ https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8?Playlist
 #EXTINF:-1 tvg-id="1019" tvg-name="Latino Kids TV" tvg-logo="https://www.m3u.cl/logo/1019_Latino_Kids_TV.png", Latino Kids TV
 https://s14.ssl-stream.com:3335/live/latinokidsonlinelive.m3u8?PlaylistM3UCL
 #EXTINF:-1 logo="https://i.imgur.com/lND6DKt.png" group-title="INFANTIL",TOONCAST - GEO
-http://clubtv.link/11ab/abril1/geomex.php?c=108&f=.m3u8
+http://clubtv.link/11ab/16abril/geomex.php?c=108&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/lND6DKt.png" group-title="INFANTIL",TOONCAST - GEO 2
-http://clubtv.link/11ab/abril1/geomex2.php?c=108&f=.m3u8
+http://clubtv.link/11ab/16abril/geomex2.php?c=108&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/lND6DKt.png" group-title="INFANTIL",TOONCAST - GEO 3
-
+http://clubtv.link/11ab/16abril/geomex3.php?c=108&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/lND6DKt.png" group-title="INFANTIL",TOONCAST - LIS 2
-http://clubtv.link/11ab/abril1/lista2.php?c=a0id&f=.m3u8
+http://clubtv.link/11ab/16abril/lista2.php?c=a0id&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/lND6DKt.png" group-title="INFANTIL",TOONCAST - MX
-http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=108&p=3&k=srregio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=108&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/discovery-kids/images/a/a3/2021-act.png/revision/latest?cb=20210608141228&path-prefix=es" group-title="INFANTIL",DISCOVERY KIDS HD - LIS 1
 
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/discovery-kids/images/a/a3/2021-act.png/revision/latest?cb=20210608141228&path-prefix=es" group-title="INFANTIL",DISCOVERY KIDS - GEO
-http://clubtv.link/11ab/abril1/geomex.php?c=109&f=.m3u8
+http://clubtv.link/11ab/16abril/geomex.php?c=109&f=.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/discovery-kids/images/a/a3/2021-act.png/revision/latest?cb=20210608141228&path-prefix=es" group-title="INFANTIL",DISCOVERY KIDS - GEO 2
-http://clubtv.link/11ab/abril1/geomex2.php?c=109&f=.m3u8
+http://clubtv.link/11ab/16abril/geomex2.php?c=109&f=.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/discovery-kids/images/a/a3/2021-act.png/revision/latest?cb=20210608141228&path-prefix=es" group-title="INFANTIL",DISCOVERY KIDS - GEO 3
-
+http://clubtv.link/11ab/16abril/geomex3.php?c=109&f=.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/discovery-kids/images/a/a3/2021-act.png/revision/latest?cb=20210608141228&path-prefix=es" group-title="INFANTIL",DISCOVERY KIDS - GANDR 2
-http://clubtv.link/11ab/abril1/android2.php?c=572.ts|User-Agent=TVKINGpropiedadDeShortGod
+http://clubtv.link/11ab/16abril/android2.php?c=572.ts|User-Agent=TVKINGpropiedadDeShortGod
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/discovery-kids/images/a/a3/2021-act.png/revision/latest?cb=20210608141228&path-prefix=es" group-title="INFANTIL",DISCOVERY KIDS - LIS 2
-http://clubtv.link/11ab/abril1/lista2.php?c=a0jl&f=.m3u8
+http://clubtv.link/11ab/16abril/lista2.php?c=a0jl&f=.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/discovery-kids/images/a/a3/2021-act.png/revision/latest?cb=20210608141228&path-prefix=es" group-title="INFANTIL",DISCOVERY KIDS - TV
-http://regioplay.xyz/php/SR_REGIO_223022_/regio01.php?c=25&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_514022_/regio01.php?c=25&f=.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/discovery-kids/images/a/a3/2021-act.png/revision/latest?cb=20210608141228&path-prefix=es" group-title="INFANTIL",DISCOVERY KIDS - MX
-http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=109&p=3&k=srregio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=109&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/discovery-kids/images/a/a3/2021-act.png/revision/latest?cb=20210608141228&path-prefix=es" group-title="INFANTIL",DISCOVERY KIDS - ANDR
-http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=38|User-Agent=suplayer
+http://regioplay.xyz/php/SR_REGIO_514022_/regiotv2.php?c=38|User-Agent=suplayer
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_nickelodeon_m.png" group-title="INFANTIL",NICK HD - LIS 1
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_nickelodeon_m.png" group-title="INFANTIL",NICK - GANDR 2
-http://clubtv.link/11ab/abril1/android2.php?c=638.ts|User-Agent=TVKINGpropiedadDeShortGod
+http://clubtv.link/11ab/16abril/android2.php?c=638.ts|User-Agent=TVKINGpropiedadDeShortGod
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_nickelodeon_m.png" group-title="INFANTIL",NICK - LIS 2
-http://clubtv.link/11ab/abril1/lista2.php?c=a0jm&f=.m3u8
+http://clubtv.link/11ab/16abril/lista2.php?c=a0jm&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_nickelodeon_m.png" group-title="INFANTIL",NICK - TV
-http://regioplay.xyz/php/SR_REGIO_223022_/regio01.php?c=78&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_514022_/regio01.php?c=78&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_nickelodeon_m.png" group-title="INFANTIL",NICK - MX
-http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=331&p=3&k=srregio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=331&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_nickelodeon_m.png" group-title="INFANTIL",NICK - ANDR
-http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=121|User-Agent=suplayer
+http://regioplay.xyz/php/SR_REGIO_514022_/regiotv2.php?c=121|User-Agent=suplayer
 #EXTINF:-1 logo="https://res.cloudinary.com/clearlink/image/upload/v1589303475/Dish/images/isolated/~png-logo-exports-for-channel-page-hero/TeenNick-Default-Color_2x_hh2xrm.png" group-title="INFANTIL",TEEN NIC - GEO
-http://clubtv.link/11ab/abril1/geomex.php?c=2147&f=.m3u8
+http://clubtv.link/11ab/16abril/geomex.php?c=2147&f=.m3u8
 #EXTINF:-1 logo="https://res.cloudinary.com/clearlink/image/upload/v1589303475/Dish/images/isolated/~png-logo-exports-for-channel-page-hero/TeenNick-Default-Color_2x_hh2xrm.png" group-title="INFANTIL",TEEN NIC - GEO 2
-http://clubtv.link/11ab/abril1/geomex2.php?c=2147&f=.m3u8
+http://clubtv.link/11ab/16abril/geomex2.php?c=2147&f=.m3u8
 #EXTINF:-1 logo="https://res.cloudinary.com/clearlink/image/upload/v1589303475/Dish/images/isolated/~png-logo-exports-for-channel-page-hero/TeenNick-Default-Color_2x_hh2xrm.png" group-title="INFANTIL",TEEN NIC - GEO 3
-
+http://clubtv.link/11ab/16abril/geomex3.php?c=2147&f=.m3u8
 #EXTINF:-1 logo="https://res.cloudinary.com/clearlink/image/upload/v1589303475/Dish/images/isolated/~png-logo-exports-for-channel-page-hero/TeenNick-Default-Color_2x_hh2xrm.png" group-title="INFANTIL",TEEN NIC - GANDR 2
-http://clubtv.link/11ab/abril1/android2.php?c=639.ts|User-Agent=TVKINGpropiedadDeShortGod
+http://clubtv.link/11ab/16abril/android2.php?c=639.ts|User-Agent=TVKINGpropiedadDeShortGod
 #EXTINF:-1 logo="https://res.cloudinary.com/clearlink/image/upload/v1589303475/Dish/images/isolated/~png-logo-exports-for-channel-page-hero/TeenNick-Default-Color_2x_hh2xrm.png" group-title="INFANTIL",TEEN NIC - MX
-http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=2147&p=3&k=srregio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=2147&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/NLNivxd.jpg" group-title="INFANTIL",DISNEY XD HD - LIS 1
 
 #EXTINF:-1 logo="https://i.imgur.com/NLNivxd.jpg" group-title="INFANTIL",DISNEY XD - GEO
-http://clubtv.link/11ab/abril1/geomex.php?c=111&f=.m3u8
+http://clubtv.link/11ab/16abril/geomex.php?c=111&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/NLNivxd.jpg" group-title="INFANTIL",DISNEY XD - GEO 2
-http://clubtv.link/11ab/abril1/geomex2.php?c=111&f=.m3u8
+http://clubtv.link/11ab/16abril/geomex2.php?c=111&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/NLNivxd.jpg" group-title="INFANTIL",DISNEY XD - GEO 3
-
+http://clubtv.link/11ab/16abril/geomex3.php?c=111&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/NLNivxd.jpg" group-title="INFANTIL",DISNEY XD - GANDR 2
-http://clubtv.link/11ab/abril1/android2.php?c=580.ts|User-Agent=TVKINGpropiedadDeShortGod
+http://clubtv.link/11ab/16abril/android2.php?c=580.ts|User-Agent=TVKINGpropiedadDeShortGod
 #EXTINF:-1 logo="https://i.imgur.com/NLNivxd.jpg" group-title="INFANTIL",DISNEY XD - LIS 1
 
 #EXTINF:-1 logo="https://i.imgur.com/NLNivxd.jpg" group-title="INFANTIL",DISNEY XD - TV
-http://regioplay.xyz/php/SR_REGIO_223022_/regio01.php?c=31&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_514022_/regio01.php?c=31&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/NLNivxd.jpg" group-title="INFANTIL",DISNEY XD - MX
-http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=111&p=3&k=srregio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=111&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/NLNivxd.jpg" group-title="INFANTIL",DISNEY XD - ANDR
-http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=45|User-Agent=suplayer
+http://regioplay.xyz/php/SR_REGIO_514022_/regiotv2.php?c=45|User-Agent=suplayer
 #EXTINF:-1 tvg-id="1015" tvg-name="Planetatv Kids" tvg-logo="https://www.m3u.cl/logo/1015_Planetatv_Kids.png", Planetatv Kids
 https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="INFANTIL",CARTOON NETWORK - GEO
-http://clubtv.link/11ab/abril1/geomex.php?c=112v
+http://clubtv.link/11ab/16abril/geomex.php?c=112v
 #EXTINF:-1 logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="INFANTIL",CARTOON NETWORK - GEO 2
-http://clubtv.link/11ab/abril1/geomex2.php?c=112v
+http://clubtv.link/11ab/16abril/geomex2.php?c=112v
 #EXTINF:-1 logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="INFANTIL",CARTOON NETWORK - GEO 3
-
+http://clubtv.link/11ab/16abril/geomex3.php?c=112v
 #EXTINF:-1 logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="INFANTIL",CARTOON NETWORK - GANDR 2
-http://clubtv.link/11ab/abril1/android2.php?c=552.ts|User-Agent=TVKINGpropiedadDeShortGod
+http://clubtv.link/11ab/16abril/android2.php?c=552.ts|User-Agent=TVKINGpropiedadDeShortGod
 #EXTINF:-1 logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="INFANTIL",CARTOON NETWORK - LIS 2
-http://clubtv.link/11ab/abril1/lista2.php?c=a0ez&f=.m3u8
+http://clubtv.link/11ab/16abril/lista2.php?c=a0ez&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="INFANTIL",CARTOON NETWORK - TV
-http://regioplay.xyz/php/SR_REGIO_223022_/regio01.php?c=17&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_514022_/regio01.php?c=17&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="INFANTIL",CARTOON NETWORK - MX
-http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=112&p=3&k=srregio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=112&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="INFANTIL",CARTOON NETWORK - ANDR
-http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=18|User-Agent=suplayer
-#EXTINF:-1 logo="https://i.imgur.com/84lq03p.jpg" group-title="INFANTIL",DISNEY CHANNEL - GEO
+http://regioplay.xyz/php/SR_REGIO_514022_/regiotv2.php?c=18|User-Agent=suplayer
+#EXTINF:-1 logo="https://i.imgur.com/84lq03p.jpg" group-title="INFANTIL",DISNEY CHANNEL - GEO *******************
 http://clubtv.link/11ab/abril1/geomex.php?c=113&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/84lq03p.jpg" group-title="INFANTIL",DISNEY CHANNEL - GEO 2
 http://clubtv.link/11ab/abril1/geomex2.php?c=113&f=.m3u8
