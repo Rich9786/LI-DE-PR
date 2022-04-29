@@ -48,8 +48,6 @@ http://clubtv.link/ab25c/ab25b/geomex.php?c=27&f=.m3u8
 http://clubtv.link/ab25c/ab25b/geomex2.php?c=27&f=.m3u8
 #EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2018_01/large.aztecaunovertical.png.591c1b430422e1412e58be389e838412.png" group-title="MEXICO",AZTECA UNO - GEO 3
 http://clubtv.link/ab25c/ab25b/geomex3.php?c=27&f=.m3u8
-#EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2018_01/large.aztecaunovertical.png.591c1b430422e1412e58be389e838412.png" group-title="MEXICO",AZTECA UNO - GANDR 2
-
 #EXTINF:-1 logo="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/18760b62-926b-4c2f-a0d0-42a6420db7c6" group-title="MEXICO",AZTECA UNO - TV
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2018_01/large.aztecaunovertical.png.591c1b430422e1412e58be389e838412.png" group-title="MEXICO",AZTECA UNO - MX
@@ -286,6 +284,8 @@ http://clubtv.link/ab25c/ab25b/geomex.php?c=2316&f=.m3u8
 http://clubtv.link/ab25c/ab25b/geomex2.php?c=2316&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZmVC5--K7Y0aAXpywAFofm7Mi6or0wKDfWF940R073KLkWxex92zzkMzxavuvxtDOaa0&usqp=CAU" group-title="MEXICO",A+ - GEO 3
 http://clubtv.link/ab25c/ab25b/geomex3.php?c=2316&f=.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZmVC5--K7Y0aAXpywAFofm7Mi6or0wKDfWF940R073KLkWxex92zzkMzxavuvxtDOaa0&usqp=CAU" group-title="MEXICO",A+ - LIS 3
+https://clubtv.link/ab25c/ab25b/lista3.php?c=406&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZmVC5--K7Y0aAXpywAFofm7Mi6or0wKDfWF940R073KLkWxex92zzkMzxavuvxtDOaa0&usqp=CAU" group-title="MEXICO",A+ - MX
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTkmtkcBKvUasd92oG42XN-gsSGgODxw3j5nFrmOg=s900-c-k-c0x00ffffff-no-rj" group-title="MEXICO",CANAL 26 AGUASCALIENTES - MX
@@ -380,8 +380,8 @@ http://clubtv.link/ab25c/ab25b/geomex2.php?c=108&f=.m3u8
 http://clubtv.link/ab25c/ab25b/geomex3.php?c=108&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/lND6DKt.png" group-title="INFANTIL",TOONCAST - LIS 1
 http://clubtv.link/ab25c/ab25b/lista1.php?c=a0id&f=.m3u8
-#EXTINF:-1 logo="https://i.imgur.com/lND6DKt.png" group-title="INFANTIL",TOONCAST - GANDR 1
-
+#EXTINF:-1 logo="https://i.imgur.com/lND6DKt.png" group-title="INFANTIL",TOONCAST - LIS 3
+https://clubtv.link/ab25c/ab25b/lista3.php?c=95&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/lND6DKt.png" group-title="INFANTIL",TOONCAST - MX
 http://regioplay.xyz/php/SR_REGIO_224022_/nuevotp.php?c=108&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/discovery-kids/images/a/a3/2021-act.png/revision/latest?cb=20210608141228&path-prefix=es" group-title="INFANTIL",DISCOVERY KIDS HD - LIS 1
@@ -394,8 +394,8 @@ http://clubtv.link/ab25c/ab25b/geomex2.php?c=109&f=.m3u8
 http://clubtv.link/ab25c/ab25b/geomex3.php?c=109&f=.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/discovery-kids/images/a/a3/2021-act.png/revision/latest?cb=20210608141228&path-prefix=es" group-title="INFANTIL",DISCOVERY KIDS - LIS 1
 http://clubtv.link/ab25c/ab25b/lista1.php?c=a00m
-#EXTINF:-1 logo="https://static.wikia.nocookie.net/discovery-kids/images/a/a3/2021-act.png/revision/latest?cb=20210608141228&path-prefix=es" group-title="INFANTIL",DISCOVERY KIDS - GANDR 1
-
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/discovery-kids/images/a/a3/2021-act.png/revision/latest?cb=20210608141228&path-prefix=es" group-title="INFANTIL",DISCOVERY KIDS - LIS 3
+https://clubtv.link/ab25c/ab25b/lista3.php?c=25&f=.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/discovery-kids/images/a/a3/2021-act.png/revision/latest?cb=20210608141228&path-prefix=es" group-title="INFANTIL",DISCOVERY KIDS - TV
 http://regioplay.xyz/php/SR_REGIO_224022_/regio01.php?c=25&f=.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/discovery-kids/images/a/a3/2021-act.png/revision/latest?cb=20210608141228&path-prefix=es" group-title="INFANTIL",DISCOVERY KIDS - MX
@@ -406,8 +406,8 @@ http://regioplay.xyz/php/SR_REGIO_224022_/regiotv2.php?c=38|User-Agent=suplayer
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_nickelodeon_m.png" group-title="INFANTIL",NICK - LIS 1
 http://clubtv.link/ab25c/ab25b/lista1.php?c=a001
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_nickelodeon_m.png" group-title="INFANTIL",NICK - GANDR 1
-
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_nickelodeon_m.png" group-title="INFANTIL",NICK - LIS 2
+https://clubtv.link/ab25c/ab25b/lista3.php?c=78&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_nickelodeon_m.png" group-title="INFANTIL",NICK - TV
 http://regioplay.xyz/php/SR_REGIO_224022_/regio01.php?c=78&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_nickelodeon_m.png" group-title="INFANTIL",NICK - MX
@@ -420,8 +420,8 @@ http://clubtv.link/ab25c/ab25b/geomex.php?c=2147&f=.m3u8
 http://clubtv.link/ab25c/ab25b/geomex2.php?c=2147&f=.m3u8
 #EXTINF:-1 logo="https://res.cloudinary.com/clearlink/image/upload/v1589303475/Dish/images/isolated/~png-logo-exports-for-channel-page-hero/TeenNick-Default-Color_2x_hh2xrm.png" group-title="INFANTIL",TEEN NIC - GEO 3
 http://clubtv.link/ab25c/ab25b/geomex3.php?c=2147&f=.m3u8
-#EXTINF:-1 logo="https://res.cloudinary.com/clearlink/image/upload/v1589303475/Dish/images/isolated/~png-logo-exports-for-channel-page-hero/TeenNick-Default-Color_2x_hh2xrm.png" group-title="INFANTIL",TEEN NIC - GANDR 1
-
+#EXTINF:-1 logo="https://res.cloudinary.com/clearlink/image/upload/v1589303475/Dish/images/isolated/~png-logo-exports-for-channel-page-hero/TeenNick-Default-Color_2x_hh2xrm.png" group-title="INFANTIL",TEEN NIC - LIS 3
+https://clubtv.link/ab25c/ab25b/lista3.php?c=184&f=.m3u8
 #EXTINF:-1 logo="https://res.cloudinary.com/clearlink/image/upload/v1589303475/Dish/images/isolated/~png-logo-exports-for-channel-page-hero/TeenNick-Default-Color_2x_hh2xrm.png" group-title="INFANTIL",TEEN NIC - MX
 http://regioplay.xyz/php/SR_REGIO_224022_/nuevotp.php?c=2147&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/NLNivxd.jpg" group-title="INFANTIL",DISNEY XD HD - LIS 1
@@ -451,6 +451,8 @@ http://clubtv.link/ab25c/ab25b/geomex2.php?c=112v
 http://clubtv.link/ab25c/ab25b/geomex3.php?c=112v
 #EXTINF:-1 logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="INFANTIL",CARTOON NETWORK - LIS 1
 http://clubtv.link/ab25c/ab25b/lista1.php?c=a00f
+#EXTINF:-1 logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="INFANTIL",CARTOON NETWORK - LIS 3
+https://clubtv.link/ab25c/ab25b/lista3.php?c=17&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="INFANTIL",CARTOON NETWORK - TV
 http://regioplay.xyz/php/SR_REGIO_224022_/regio01.php?c=17&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="INFANTIL",CARTOON NETWORK - MX
@@ -465,8 +467,8 @@ http://clubtv.link/ab25c/ab25b/geomex2.php?c=113&f=.m3u8
 http://clubtv.link/ab25c/ab25b/geomex3.php?c=113&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/84lq03p.jpg" group-title="INFANTIL",DISNEY CHANNEL - LIS 1
 http://clubtv.link/ab25c/ab25b/lista1.php?c=a017
-#EXTINF:-1 logo="https://i.imgur.com/84lq03p.jpg" group-title="INFANTIL",DISNEY CHANNEL - GANDR 1
-
+#EXTINF:-1 logo="https://i.imgur.com/84lq03p.jpg" group-title="INFANTIL",DISNEY CHANNEL - LIS 3
+https://clubtv.link/ab25c/ab25b/lista3.php?c=29&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/84lq03p.jpg" group-title="INFANTIL",DISNEY CHANNEL S1 - TV
 http://regioplay.xyz/php/SR_REGIO_224022_/regio01.php?c=29&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/84lq03p.jpg" group-title="INFANTIL",DISNEY CHANNEL S2 - TV
@@ -483,10 +485,10 @@ http://clubtv.link/ab25c/ab25b/geomex.php?c=115&f=.m3u8
 http://clubtv.link/ab25c/ab25b/geomex2.php?c=115&f=.m3u8
 #EXTINF:-1 logo="https://www.latercera.com/resizer/VVzHKMrD-jH2UFZfnE9s-Cyv_D4=/1023x682/smart/cloudfront-us-east-1.images.arcpublishing.com/copesa/NNHASRIGRRBYRABSIP3HGH5U4A.jpg" group-title="INFANTIL",CARTOONITO (BOOMERANG) - GEO 3
 http://clubtv.link/ab25c/ab25b/geomex3.php?c=115&f=.m3u8
-#EXTINF:-1 logo="https://www.latercera.com/resizer/VVzHKMrD-jH2UFZfnE9s-Cyv_D4=/1023x682/smart/cloudfront-us-east-1.images.arcpublishing.com/copesa/NNHASRIGRRBYRABSIP3HGH5U4A.jpg" group-title="INFANTIL",CARTOONITO (BOOMERANG) - GANDR 2
-
-#EXTINF:-1 logo="https://www.latercera.com/resizer/VVzHKMrD-jH2UFZfnE9s-Cyv_D4=/1023x682/smart/cloudfront-us-east-1.images.arcpublishing.com/copesa/NNHASRIGRRBYRABSIP3HGH5U4A.jpg" group-title="INFANTIL",CARTOONITO (BOOMERANG) - LIS 2
-
+#EXTINF:-1 logo="https://www.latercera.com/resizer/VVzHKMrD-jH2UFZfnE9s-Cyv_D4=/1023x682/smart/cloudfront-us-east-1.images.arcpublishing.com/copesa/NNHASRIGRRBYRABSIP3HGH5U4A.jpg" group-title="INFANTIL",CARTOONITO (BOOMERANG) - LIS 3
+https://clubtv.link/ab25c/ab25b/lista3.php?c=11&f=.m3u8
+#EXTINF:-1 logo="https://www.latercera.com/resizer/VVzHKMrD-jH2UFZfnE9s-Cyv_D4=/1023x682/smart/cloudfront-us-east-1.images.arcpublishing.com/copesa/NNHASRIGRRBYRABSIP3HGH5U4A.jpg" group-title="INFANTIL",CARTOONITO SUR (BOOMERANG) - LIS 3
+https://clubtv.link/ab25c/ab25b/lista3.php?c=735&f=.m3u8
 #EXTINF:-1 logo="https://www.latercera.com/resizer/VVzHKMrD-jH2UFZfnE9s-Cyv_D4=/1023x682/smart/cloudfront-us-east-1.images.arcpublishing.com/copesa/NNHASRIGRRBYRABSIP3HGH5U4A.jpg" group-title="INFANTIL",CARTOONITO (BOOMERANG) - MX
 http://regioplay.xyz/php/SR_REGIO_224022_/nuevotp.php?c=115&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/n3eZIO3.png" group-title="INFANTIL",BABY TV - GEO
@@ -495,10 +497,8 @@ http://clubtv.link/ab25c/ab25b/geomex.php?c=116&f=.m3u8
 http://clubtv.link/ab25c/ab25b/geomex2.php?c=116&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/n3eZIO3.png" group-title="INFANTIL",BABY TV - GEO 3
 http://clubtv.link/ab25c/ab25b/geomex3.php?c=116&f=.m3u8
-#EXTINF:-1 logo="https://i.imgur.com/n3eZIO3.png" group-title="INFANTIL",BABY TV - LIS 1
-
-#EXTINF:-1 logo="https://i.imgur.com/n3eZIO3.png" group-title="INFANTIL",BABY TV - GANDR 1
-
+#EXTINF:-1 logo="https://i.imgur.com/n3eZIO3.png" group-title="INFANTIL",BABY TV - LIS 3
+https://clubtv.link/ab25c/ab25b/lista3.php?c=7&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/n3eZIO3.png" group-title="INFANTIL",BABY TV - MX
 http://regioplay.xyz/php/SR_REGIO_224022_/nuevotp.php?c=116&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngBDK5shWiNAYEMi682qL-IAYkO6RL36wwVH2V43g=s900-c-k-c0x00ffffff-no-rj" group-title="DISTRO TV",ZooMoo - LIS 1
@@ -523,6 +523,8 @@ http://clubtv.link/ab25c/ab25b/geomex2.php?c=117&f=.m3u8
 http://clubtv.link/ab25c/ab25b/geomex3.php?c=117&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/rhHtS3j.jpg" group-title="INFANTIL",NICK JR - LIS 1
 http://clubtv.link/ab25c/ab25b/lista1.php?c=a038
+#EXTINF:-1 logo="https://i.imgur.com/rhHtS3j.jpg" group-title="INFANTIL",NICK JR - LIS 3
+https://clubtv.link/ab25c/ab25b/lista3.php?c=79&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/rhHtS3j.jpg" group-title="INFANTIL",NICK JR - TV
 http://regioplay.xyz/php/SR_REGIO_224022_/regio01.php?c=79&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/rhHtS3j.jpg" group-title="INFANTIL",NICK JR - MX
@@ -539,6 +541,8 @@ http://clubtv.link/ab25c/ab25b/geomex2.php?c=118&f=.m3u8
 http://clubtv.link/ab25c/ab25b/geomex3.php?c=118&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/9FOKuui.jpg" group-title="INFANTIL",DISNEY JR - LIS 1
 http://clubtv.link/ab25c/ab25b/lista1.php?c=a013
+#EXTINF:-1 logo="https://i.imgur.com/9FOKuui.jpg" group-title="INFANTIL",DISNEY JR - LIS 3
+https://clubtv.link/ab25c/ab25b/lista3.php?c=30&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/9FOKuui.jpg" group-title="INFANTIL",DISNEY JR - TV
 http://regioplay.xyz/php/SR_REGIO_224022_/regio01.php?c=30&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/9FOKuui.jpg" group-title="INFANTIL",DISNEY JR - MX
@@ -572,8 +576,8 @@ http://clubtv.link/ab25c/ab25b/geomex.php?c=2591&f=.m3u8
 http://clubtv.link/ab25c/ab25b/geomex2.php?c=2591&f=.m3u8
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1347112024925474817/FsTxCmRL_400x400.jpg" group-title="INFANTIL",BIT ME - GEO 3
 http://clubtv.link/ab25c/ab25b/geomex3.php?c=2591&f=.m3u8
-#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1347112024925474817/FsTxCmRL_400x400.jpg" group-title="INFANTIL",BIT ME - GANDR 1
-
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1347112024925474817/FsTxCmRL_400x400.jpg" group-title="INFANTIL",BIT ME - LIS 3
+https://clubtv.link/ab25c/ab25b/lista3.php?c=93&f=.m3u8
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1347112024925474817/FsTxCmRL_400x400.jpg" group-title="INFANTIL",BIT ME HD - MX 
 http://regioplay.xyz/php/SR_REGIO_224022_/nuevotp.php?c=2591&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1461545043022553089/hYHGCePB_400x400.jpg" group-title="INFANTIL",ENERGEEK - ANDR
@@ -599,10 +603,8 @@ http://iptveiksprivado.com/images/vod/canalesculturales.png
 
 
 
-#EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2020_09/large.DiscoveryID-sep2020-rec1.png.f831d9a2c85998dff772d2ddf3655360.png" group-title="MUNDO Y CULTURA",DISCOVERY ID - LIS 1
-
-#EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2020_09/large.DiscoveryID-sep2020-rec1.png.f831d9a2c85998dff772d2ddf3655360.png" group-title="MUNDO Y CULTURA",DISCOVERY ID - GANDR 1
-
+#EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2020_09/large.DiscoveryID-sep2020-rec1.png.f831d9a2c85998dff772d2ddf3655360.png" group-title="MUNDO Y CULTURA",DISCOVERY ID - LIS 3
+https://clubtv.link/ab25c/ab25b/lista3.php?c=68&f=.m3u8
 #EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2020_09/large.DiscoveryID-sep2020-rec1.png.f831d9a2c85998dff772d2ddf3655360.png" group-title="MUNDO Y CULTURA",DISCOVERY ID - TV
 http://regioplay.xyz/php/SR_REGIO_224022_/regio01.php?c=68&f=.m3u8
 #EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2020_09/large.DiscoveryID-sep2020-rec1.png.f831d9a2c85998dff772d2ddf3655360.png" group-title="MUNDO Y CULTURA",DISCOVERY ID - MX
@@ -629,6 +631,10 @@ http://clubtv.link/ab25c/ab25b/geomex2.php?c=86&f=.m3u8
 http://clubtv.link/ab25c/ab25b/geomex3.php?c=86&f=.m3u8
 #EXTINF:-1 logo="https://img2.freepng.es/20180426/bwq/kisspng-discovery-channel-television-channel-discovery-hd-5ae15a0b4e05e1.0298670015247180913196.jpg" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL - LIS 1
 http://clubtv.link/ab25c/ab25b/lista1.php?c=a018
+#EXTINF:-1 logo="https://img2.freepng.es/20180426/bwq/kisspng-discovery-channel-television-channel-discovery-hd-5ae15a0b4e05e1.0298670015247180913196.jpg" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL - LIS 3
+https://clubtv.link/ab25c/ab25b/lista3.php?c=22&f=.m3u8
+#EXTINF:-1 logo="https://img2.freepng.es/20180426/bwq/kisspng-discovery-channel-television-channel-discovery-hd-5ae15a0b4e05e1.0298670015247180913196.jpg" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL SUR - LIS 3
+https://clubtv.link/ab25c/ab25b/lista3.php?c=741&f=.m3u8
 #EXTINF:-1 logo="https://img2.freepng.es/20180426/bwq/kisspng-discovery-channel-television-channel-discovery-hd-5ae15a0b4e05e1.0298670015247180913196.jpg" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL S1 - TV
 http://regioplay.xyz/php/SR_REGIO_224022_/regio01.php?c=22&f=.m3u8
 #EXTINF:-1 logo="https://img2.freepng.es/20180426/bwq/kisspng-discovery-channel-television-channel-discovery-hd-5ae15a0b4e05e1.0298670015247180913196.jpg" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL S2 - TV
@@ -645,12 +651,8 @@ http://clubtv.link/ab25c/ab25b/geomex.php?c=88&f=.m3u8
 http://clubtv.link/ab25c/ab25b/geomex2.php?c=88&f=.m3u8
 #EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="MUNDO Y CULTURA",ANIMAL PLANET - GEO 3
 http://clubtv.link/ab25c/ab25b/geomex3.php?c=88&f=.m3u8
-#EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="MUNDO Y CULTURA",ANIMAL PLANET - GANDR 1
-http://clubtv.link/ab25c/ab25b/android1.php?c=3&f=.|User-Agent=suplayer
-#EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="MUNDO Y CULTURA",ANIMAL PLANET - GANDR 3
-
-#EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="MUNDO Y CULTURA",ANIMAL PLANET - LIS 1
-
+#EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="MUNDO Y CULTURA",ANIMAL PLANET - LIS 3
+https://clubtv.link/ab25c/ab25b/lista3.php?c=3&f=.m3u8
 #EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="MUNDO Y CULTURA",ANIMAL PLANET S1 - TV
 http://regioplay.xyz/php/SR_REGIO_224022_/regio01.php?c=3&f=.m3u8
 #EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="MUNDO Y CULTURA",ANIMAL PLANET S2 - TV
@@ -669,8 +671,8 @@ http://clubtv.link/ab25c/ab25b/geomex2.php?c=89&f=.m3u8
 http://clubtv.link/ab25c/ab25b/geomex3.php?c=89&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY - LIS 1
 http://clubtv.link/ab25c/ab25b/lista1.php?c=a004
-#EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY - GANDR 1
-
+#EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY - LIS 3
+https://clubtv.link/ab25c/ab25b/lista3.php?c=67&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY - TV
 http://regioplay.xyz/php/SR_REGIO_224022_/regio01.php?c=67&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY (ESPAÑA) - TV
@@ -679,18 +681,14 @@ http://regioplay.xyz/php/SR_REGIO_224022_/regio01.php?c=718&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_224022_/nuevotp.php?c=89&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY - ANDR
 http://regioplay.xyz/php/SR_REGIO_224022_/regiotv2.php?c=56|User-Agent=suplayer
-#EXTINF:-1 logo="https://i.imgur.com/ypR4tvy.jpg" group-title="MUNDO Y CULTURA",H2 - Lis 1
-
-#EXTINF:-1 logo="https://i.imgur.com/ypR4tvy.jpg" group-title="MUNDO Y CULTURA",H2 - GANDR 1
-
+#EXTINF:-1 logo="https://i.imgur.com/ypR4tvy.jpg" group-title="MUNDO Y CULTURA",H2 - Lis 3
+https://clubtv.link/ab25c/ab25b/lista3.php?c=61&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/ypR4tvy.jpg" group-title="MUNDO Y CULTURA",H2 - TV
 http://regioplay.xyz/php/SR_REGIO_224022_/regio01.php?c=61&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://w1.pngwing.com/pngs/818/201/png-transparent-tv-logo-cable-television-hgtv-organization-blue-text-line-thumbnail.png" group-title="TV PREMIUM 2",HGTV - GANDR 3
-
 #EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://w1.pngwing.com/pngs/818/201/png-transparent-tv-logo-cable-television-hgtv-organization-blue-text-line-thumbnail.png" group-title="TV PREMIUM 2",HGTV - LIS 1
 
-#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://w1.pngwing.com/pngs/818/201/png-transparent-tv-logo-cable-television-hgtv-organization-blue-text-line-thumbnail.png" group-title="TV PREMIUM 2",HGTV - GANDR 1
-
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://w1.pngwing.com/pngs/818/201/png-transparent-tv-logo-cable-television-hgtv-organization-blue-text-line-thumbnail.png" group-title="TV PREMIUM 2",HGTV - LIS 3
+https://clubtv.link/ab25c/ab25b/lista3.php?c=23&f=.m3u8
 #EXTINF:-1 logo="https://www.marketingdirecto.com/wp-content/uploads/2012/12/national-geographic.jpg" group-title="MUNDO Y CULTURA",NAT GEO HD - LIS 1
 
 #EXTINF:-1 logo="https://www.marketingdirecto.com/wp-content/uploads/2012/12/national-geographic.jpg" group-title="MUNDO Y CULTURA",NAT GEO - GEO 
@@ -701,8 +699,10 @@ http://clubtv.link/ab25c/ab25b/geomex2.php?c=91&f=.m3u8
 http://clubtv.link/ab25c/ab25b/geomex3.php?c=91&f=.m3u8
 #EXTINF:-1 logo="https://www.marketingdirecto.com/wp-content/uploads/2012/12/national-geographic.jpg" group-title="MUNDO Y CULTURA",NAT GEO - LIS 1
 http://clubtv.link/ab25c/ab25b/lista1.php?c=a003
-#EXTINF:-1 logo="https://www.marketingdirecto.com/wp-content/uploads/2012/12/national-geographic.jpg" group-title="MUNDO Y CULTURA",NAT GEO - LIS 2
-
+#EXTINF:-1 logo="https://www.marketingdirecto.com/wp-content/uploads/2012/12/national-geographic.jpg" group-title="MUNDO Y CULTURA",NAT GEO S1 - LIS 3
+https://clubtv.link/ab25c/ab25b/lista3.php?c=76&f=.m3u8
+#EXTINF:-1 logo="https://www.marketingdirecto.com/wp-content/uploads/2012/12/national-geographic.jpg" group-title="MUNDO Y CULTURA",NAT GEO S2 - LIS 3
+https://clubtv.link/ab25c/ab25b/lista3.php?c=77&f=.m3u8
 #EXTINF:-1 logo="https://www.marketingdirecto.com/wp-content/uploads/2012/12/national-geographic.jpg" group-title="MUNDO Y CULTURA",NAT GEO - TV 
 http://regioplay.xyz/php/SR_REGIO_224022_/regio01.php?c=76&f=.m3u8
 #EXTINF:-1 logo="https://www.marketingdirecto.com/wp-content/uploads/2012/12/national-geographic.jpg" group-title="MUNDO Y CULTURA",NAT GEO - MX
@@ -751,16 +751,10 @@ http://clubtv.link/ab25c/ab25b/geomex.php?c=95&f=.m3u8
 http://clubtv.link/ab25c/ab25b/geomex2.php?c=95&f=.m3u8
 #EXTINF:-1 logo="https://i.ytimg.com/vi/bjibZ7sRbEg/maxresdefault.jpg" group-title="MUNDO Y CULTURA",DISCOVERY THEATER - GEO 3
 http://clubtv.link/ab25c/ab25b/geomex3.php?c=95&f=.m3u8
-#EXTINF:-1 logo="https://i.ytimg.com/vi/bjibZ7sRbEg/maxresdefault.jpg" group-title="MUNDO Y CULTURA",DISCOVERY THEATER - GANDR 1
-
-#EXTINF:-1 logo="https://i.ytimg.com/vi/bjibZ7sRbEg/maxresdefault.jpg" group-title="MUNDO Y CULTURA",DISCOVERY THEATER S1 - GANDR 3
-
-#EXTINF:-1 logo="https://i.ytimg.com/vi/bjibZ7sRbEg/maxresdefault.jpg" group-title="MUNDO Y CULTURA",DISCOVERY THEATER S2 - GANDR 2
-
-#EXTINF:-1 logo="https://i.ytimg.com/vi/bjibZ7sRbEg/maxresdefault.jpg" group-title="MUNDO Y CULTURA",DISCOVERY THEATER S2 - GANDR 3
-
-#EXTINF:-1 logo="https://i.ytimg.com/vi/bjibZ7sRbEg/maxresdefault.jpg" group-title="MUNDO Y CULTURA",DISCOVERY THEATER - LIS 1
-
+#EXTINF:-1 logo="https://i.ytimg.com/vi/bjibZ7sRbEg/maxresdefault.jpg" group-title="MUNDO Y CULTURA",DISCOVERY THEATER S1 - LIS 3
+https://clubtv.link/ab25c/ab25b/lista3.php?c=26&f=.m3u8
+#EXTINF:-1 logo="https://i.ytimg.com/vi/bjibZ7sRbEg/maxresdefault.jpg" group-title="MUNDO Y CULTURA",DISCOVERY THEATER S2 - LIS 3
+https://clubtv.link/ab25c/ab25b/lista3.php?c=27&f=.m3u8
 #EXTINF:-1 logo="https://i.ytimg.com/vi/bjibZ7sRbEg/maxresdefault.jpg" group-title="MUNDO Y CULTURA",DISCOVERY THEATER - MX
 http://regioplay.xyz/php/SR_REGIO_224022_/nuevotp.php?c=95&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3dc87a1710825.5600fbeaa48e9.jpg" group-title="MUNDO Y CULTURA",DISCOVERY WORLD - GEO
@@ -769,12 +763,8 @@ http://clubtv.link/ab25c/ab25b/geomex.php?c=101&f=.m3u8
 http://clubtv.link/ab25c/ab25b/geomex2.php?c=101&f=.m3u8
 #EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3dc87a1710825.5600fbeaa48e9.jpg" group-title="MUNDO Y CULTURA",DISCOVERY WORLD - GEO 3
 http://clubtv.link/ab25c/ab25b/geomex3.php?c=101&f=.m3u8
-#EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3dc87a1710825.5600fbeaa48e9.jpg" group-title="MUNDO Y CULTURA",DISCOVERY WORLD - GANDR 1
-
-#EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3dc87a1710825.5600fbeaa48e9.jpg" group-title="MUNDO Y CULTURA",DISCOVERY WORLD - GANDR 3
-
-#EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3dc87a1710825.5600fbeaa48e9.jpg" group-title="MUNDO Y CULTURA",DISCOVERY WORLD - LIS 1
-
+#EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3dc87a1710825.5600fbeaa48e9.jpg" group-title="MUNDO Y CULTURA",DISCOVERY WORLD - LIS 3
+https://clubtv.link/ab25c/ab25b/lista3.php?c=187&f=.m3u8
 #EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3dc87a1710825.5600fbeaa48e9.jpg" group-title="MUNDO Y CULTURA",DISCOVERY WORLD - MX
 http://regioplay.xyz/php/SR_REGIO_224022_/nuevotp.php?c=101&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/20bgIyT.png" group-title="DISTRO TV",Saber Mas - LIS 1
@@ -793,12 +783,10 @@ http://clubtv.link/ab25c/ab25b/geomex.php?c=96&f=.m3u8
 http://clubtv.link/ab25c/ab25b/geomex2.php?c=96&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",H&H - GEO 3
 http://clubtv.link/ab25c/ab25b/geomex3.php?c=96&f=.m3u8
-#EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",H&H - GANDR 1
-
-#EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",H&H - GANDR 3
-
 #EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",H&H - LIS 1
 http://clubtv.link/ab25c/ab25b/lista1.php?c=a01w
+#EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",H&H - LIS 3
+https://clubtv.link/ab25c/ab25b/lista3.php?c=24&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",H&H S1 - TV
 http://regioplay.xyz/php/SR_REGIO_224022_/regio01.php?c=24&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",H&H S2 - TV
@@ -875,8 +863,8 @@ http://clubtv.link/ab25c/ab25b/geomex2.php?c=2379&f=.m3u8
 http://clubtv.link/ab25c/ab25b/geomex2.php?c=2379&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1024px-Discovery_Turbo_logo.svg.png" group-title="MUNDO Y CULTURA",DISCOVERY TURBO - LIS 1
 http://clubtv.link/ab25c/ab25b/lista1.php?c=a039
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1024px-Discovery_Turbo_logo.svg.png" group-title="MUNDO Y CULTURA",DISCOVERY TURBO - GANDR 1
-
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1024px-Discovery_Turbo_logo.svg.png" group-title="MUNDO Y CULTURA",DISCOVERY TURBO - LIS 3
+https://clubtv.link/ab25c/ab25b/lista3.php?c=28&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1024px-Discovery_Turbo_logo.svg.png" group-title="MUNDO Y CULTURA",DISCOVERY TURBO S1 - TV
 http://regioplay.xyz/php/SR_REGIO_224022_/regio01.php?c=28&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1024px-Discovery_Turbo_logo.svg.png" group-title="MUNDO Y CULTURA",DISCOVERY TURBO S2 - TV
@@ -964,13 +952,9 @@ http://regioplay.xyz/php/SR_REGIO_224022_/regiotv2.php?c=104|User-Agent=suplayer
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/960px-Logo_UniM%C3%A1s.svg.png" group-title="ENTRETENIMIENTO",UNIMAS - TV
 http://regioplay.xyz/php/SR_REGIO_224022_/regio22dd.php?c=unimas&k=SrRegio2022&f=.m3u8
-#EXTINF:-1 logo="https://brandemia.org/contenido/subidas/2014/03/galavision_marca.jpg" group-title="ENTRETENIMIENTO",GALAVISION - GANDR 2
-
 #EXTINF:-1 logo="https://brandemia.org/contenido/subidas/2014/03/galavision_marca.jpg" group-title="ENTRETENIMIENTO",GALAVISION - TV
 http://regioplay.xyz/php/SR_REGIO_224022_/regio22dd.php?c=galavision&k=&f=.m3u8
 #EXTINF:-1 logo="https://brandemia.org/contenido/subidas/2014/03/galavision_marca.jpg" group-title="ENTRETENIMIENTO",GALAVISION - LIS 2
-
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="ENTRETENIMIENTO",ESTRELLA TV - GANDR 1
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="ENTRETENIMIENTO",ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
@@ -1204,10 +1188,10 @@ http://clubtv.link/ab25c/ab25b/geomex.php?c=199&f=.m3u8
 http://clubtv.link/ab25c/ab25b/geomex2.php?c=199&f=.m3u8
 #EXTINF:-1 logo="https://www.telefonogratuito10.com/wp-content/uploads/2019/10/tel%C3%A9fono-gratuito-antena-3.png" group-title="ENTRETENIMIENTO",ANTENA 3 - GEO 3
 http://clubtv.link/ab25c/ab25b/geomex3.php?c=199&f=.m3u8
-#EXTINF:-1 logo="https://www.telefonogratuito10.com/wp-content/uploads/2019/10/tel%C3%A9fono-gratuito-antena-3.png" group-title="ENTRETENIMIENTO",ANTENA 3 - LIS 1
-
-#EXTINF:-1 logo="https://www.telefonogratuito10.com/wp-content/uploads/2019/10/tel%C3%A9fono-gratuito-antena-3.png" group-title="ENTRETENIMIENTO",,ANTENA 3 - GANDR 1
-
+#EXTINF:-1 logo="https://www.telefonogratuito10.com/wp-content/uploads/2019/10/tel%C3%A9fono-gratuito-antena-3.png" group-title="ENTRETENIMIENTO",ANTENA 3 S1 - LIS 3
+https://clubtv.link/ab25c/ab25b/lista3.php?c=444&f=.m3u8
+#EXTINF:-1 logo="https://www.telefonogratuito10.com/wp-content/uploads/2019/10/tel%C3%A9fono-gratuito-antena-3.png" group-title="ENTRETENIMIENTO",ANTENA 3 S2 - LIS 3
+https://clubtv.link/ab25c/ab25b/lista3.php?c=298&f=.m3u8
 #EXTINF:-1 logo="https://www.telefonogratuito10.com/wp-content/uploads/2019/10/tel%C3%A9fono-gratuito-antena-3.png" group-title="ENTRETENIMIENTO",ANTENA 3 - MX
 http://regioplay.xyz/php/SR_REGIO_224022_/nuevotp.php?c=199&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 logo="https://www.telefonogratuito10.com/wp-content/uploads/2019/10/tel%C3%A9fono-gratuito-antena-3.png" group-title="ENTRETENIMIENTO",ANTENA 3 - ANDR
@@ -1582,10 +1566,8 @@ http://clubtv.link/ab25c/ab25b/geomex2.php?c=62&f=.m3u8
 http://clubtv.link/ab25c/ab25b/geomex3.php?c=62&f=.m3u8
 #EXTINF:-1 logo="https://img2.freepng.es/20180504/ipe/kisspng-a-e-networks-logo-television-%E9%AB%98%E6%B8%85iphonex-5aec59750ae019.7595702115254388370446.jpg" group-title="SERIES Y CINE",A&E - LIS 1
 http://clubtv.link/ab25c/ab25b/lista1.php?c=a01i
-#EXTINF:-1 logo="https://img2.freepng.es/20180504/ipe/kisspng-a-e-networks-logo-television-%E9%AB%98%E6%B8%85iphonex-5aec59750ae019.7595702115254388370446.jpg" group-title="SERIES Y CINE",A&E - GANDR 1
-
-#EXTINF:-1 logo="https://img2.freepng.es/20180504/ipe/kisspng-a-e-networks-logo-television-%E9%AB%98%E6%B8%85iphonex-5aec59750ae019.7595702115254388370446.jpg" group-title="SERIES Y CINE",A&E - GANDR 3
-
+#EXTINF:-1 logo="https://img2.freepng.es/20180504/ipe/kisspng-a-e-networks-logo-television-%E9%AB%98%E6%B8%85iphonex-5aec59750ae019.7595702115254388370446.jpg" group-title="SERIES Y CINE",A&E - LIS 3
+https://clubtv.link/ab25c/ab25b/lista3.php?c=1&f=.m3u8
 #EXTINF:-1 logo="https://img2.freepng.es/20180504/ipe/kisspng-a-e-networks-logo-television-%E9%AB%98%E6%B8%85iphonex-5aec59750ae019.7595702115254388370446.jpg" group-title="SERIES Y CINE",A&E - MX
 http://regioplay.xyz/php/SR_REGIO_224022_/nuevotp.php?c=62&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 logo="https://img2.freepng.es/20180504/ipe/kisspng-a-e-networks-logo-television-%E9%AB%98%E6%B8%85iphonex-5aec59750ae019.7595702115254388370446.jpg" group-title="SERIES Y CINE",A&E - ANDR
@@ -1594,12 +1576,12 @@ http://regioplay.xyz/php/SR_REGIO_224022_/regiotv2.php?c=1|User-Agent=suplayer
 http://45.160.73.129:8888/play/a00n/index.m3u8
 #EXTINF:-1 logo="https://img2.freepng.es/20180504/ipe/kisspng-a-e-networks-logo-television-%E9%AB%98%E6%B8%85iphonex-5aec59750ae019.7595702115254388370446.jpg" group-title="SERIES Y CINE",A&E S2 - TV
 http://45.179.140.242:8000/play/a0ig
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="SERIES Y CINE",AXN - GANDR 3
-
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="SERIES Y CINE",AXN - LIS 1
 http://clubtv.link/ab25c/ab25b/lista1.php?c=a02y
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="SERIES Y CINE",AXN - GANDR 1
-
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="SERIES Y CINE",AXN - LIS 3
+https://clubtv.link/ab25c/ab25b/lista3.php?c=146&f=.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="SERIES Y CINE",AXN SUB - LIS 3
+https://clubtv.link/ab25c/ab25b/lista3.php?c=476&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="SERIES Y CINE",AXN  - TV
 http://45.179.140.242:8000/play/a0j9
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="SERIES Y CINE",AXN  - TV
@@ -1885,9 +1867,8 @@ http://clubtv.link/ab25c/ab25b/geomex.php?c=131&f=.m3u8
 http://clubtv.link/ab25c/ab25b/geomex2.php?c=131&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/1200px-AMC_logo_2016.png" group-title="CINE",AMC - GEO 3
 http://clubtv.link/ab25c/ab25b/geomex3.php?c=131&f=.m3u8
-
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/1200px-AMC_logo_2016.png" group-title="CINE",AMC - GANDR 1
-
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/1200px-AMC_logo_2016.png" group-title="CINE",AMC - LIS 3
+https://clubtv.link/ab25c/ab25b/lista3.php?c=183&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/1200px-AMC_logo_2016.png" group-title="CINE",AMC - MX
 http://regioplay.xyz/php/SR_REGIO_224022_/nuevotp.php?c=328&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="TV PREMIUM",DHE - GANDR 2
@@ -2284,13 +2265,10 @@ https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w10274
 #EXTINF:-1 logo="https://reporteroshoy.mx/wp/wp-content/uploads/2017/08/chapulin-colorado.png" group-title="24/7", EL CHAPULIN COLORADO - GANDR 3
 http://clubtv.link/ab25c/ab25b/android3.php?c=251|User-Agent=suplayer
 #EXTINF:-1 logo="https://i.ytimg.com/vi/MM0swZ3TyEM/maxresdefault.jpg" group-title="24/7",Chespirito
-
-#EXTINF:-1 logo="https://elfinalde.s3-accelerate.amazonaws.com/2019/03/6ivwRDbQYq7oqZo0fjNgE7cX0AD-683x1024.jpg" group-title="24/7", ALF - GANDR 1
-
 #EXTINF:-1 logo="https://elfinalde.s3-accelerate.amazonaws.com/2019/03/6ivwRDbQYq7oqZo0fjNgE7cX0AD-683x1024.jpg" group-title="24/7", ALF - GANDR 3
 http://clubtv.link/ab25c/ab25b/android3.php?c=254|User-Agent=suplayer
-#EXTINF:-1 logo="https://elfinalde.s3-accelerate.amazonaws.com/2019/03/6ivwRDbQYq7oqZo0fjNgE7cX0AD-683x1024.jpg" group-title="24/7", ALF
-
+#EXTINF:-1 logo="https://elfinalde.s3-accelerate.amazonaws.com/2019/03/6ivwRDbQYq7oqZo0fjNgE7cX0AD-683x1024.jpg" group-title="24/7", ALF - LIS 3
+https://clubtv.link/ab25c/ab25b/lista3.php?c=426&f=.m3u8
 #EXTINF:-1 logo="https://sm.ign.com/ign_es/tv/d/dinosaurs-/dinosaurs-1_rvd8.jpg" group-title="24/7", Dinosaurios - GANDR 1
 
 #EXTINF:-1 logo="https://lwlies.com/wp-content/uploads/2021/01/dinoaurs-disney-plus.jpg" group-title="24/7", Dinosaurios - GANDR 3
@@ -2420,8 +2398,6 @@ http://clubtv.link/ab25c/ab25b/android3.php?c=243|User-Agent=suplayer
 #EXTINF:-1 logo="https://i.pinimg.com/550x/08/4d/96/084d960e7148966bfe2e9d63a52081de.jpg" group-title="24/7",El Pajaro Loco - GANDR 2
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/animaniacs.png" group-title="24/7",Animaniacs - GANDR 2
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animaniacs.png" group-title="24/7",Animaniacs
 
 #EXTINF:-1 logo="https://images.hive.blog/p/PB8ro82ZpZP35bVGjGoE93K3E4U5KX8KtMBJ2rhrS8qWMRULPVNAxd49CCqL66e5oQ1vCPFrxfvTpJFaW9Q6iYiAmy2Utwq41hurukzDbU2yJNz2?format=match&mode=fit" group-title="24/7", PINKY y CEREBRO
 
@@ -2621,6 +2597,8 @@ http://clubtv.link/ab25c/ab25b/geomex.php?c=40&f=.m3u8
 http://clubtv.link/ab25c/ab25b/geomex2.php?c=40&f=.m3u8
 #EXTINF:-1 logo="https://pbs.twimg.com/media/C62AHXzU8AAbEQj.jpg" group-title="NOTICIAS",ADN 40 - GEO 3
 http://clubtv.link/ab25c/ab25b/geomex3.php?c=40&f=.m3u8
+#EXTINF:-1 logo="https://pbs.twimg.com/media/C62AHXzU8AAbEQj.jpg" group-title="NOTICIAS",ADN 40 - LIS 3
+https://clubtv.link/ab25c/ab25b/lista3.php?c=447&f=.m3u8
 #EXTINF:-1 logo="https://pbs.twimg.com/media/C62AHXzU8AAbEQj.jpg" group-title="NOTICIAS",ADN 40 HD - MX
 http://regioplay.xyz/php/SR_REGIO_224022_/nuevotp.php?c=184&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 logo="https://radionotas.com/wp-content/uploads/2017/10/ADN-40.jpg" group-title="NOTICIAS",ADN40 - MX
@@ -3067,8 +3045,8 @@ http://clubtv.link/ab25c/ab25b/geomex3.php?c=174&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_224022_/nuevotp.php?c=1049&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 logo="https://televisa.brightspotcdn.com/dims4/default/dfb2a13/2147483647/strip/true/crop/1000x750+0+50/resize/716x537!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F7e%2F02%2F46d2d9304ca9b8e8f4a2828d05a6%2Ftudn.png" group-title="DEPORTES",TUDN - MX
 http://regioplay.xyz/php/SR_REGIO_224022_/nuevotp.php?c=174&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-925511197-201x200-593359461.png" group-title="DEPORTES",Izzi Afizzionados - LIS 1
-
+#EXTINF:-1 logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-925511197-201x200-593359461.png" group-title="DEPORTES",Izzi Afizzionados - LIS 3
+https://clubtv.link/ab25c/ab25b/lista3.php?c=878&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES",Win Sports - GANDR 1
 
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032020/win_sport_.jpg?UJIv5b6Z8y29Fb3.N110WFEkJKWE6Rvn&itok=dl41Wxqs" group-title="DEPORTES",WIN SPORTS PLUS - GANDR 1
@@ -3378,6 +3356,8 @@ http://clubtv.link/ab25c/ab25b/geomex.php?c=1708&f=.m3u8
 http://clubtv.link/ab25c/ab25b/geomex2.php?c=1708&f=.m3u8
 #EXTINF:-1 logo="https://1.bp.blogspot.com/-IPFY-GqGtX4/X00fOJ4MOsI/AAAAAAAAAfI/h9kSvx_pLSMl8g3ukbPZDdxN_wR5563EwCLcBGAsYHQ/s1600/nickmusic%2Btvlaint.jpg" group-title="INFANTIL",NIC MUSIC - GEO 3
 http://clubtv.link/ab25c/ab25b/geomex3.php?c=1708&f=.m3u8
+#EXTINF:-1 logo="https://1.bp.blogspot.com/-IPFY-GqGtX4/X00fOJ4MOsI/AAAAAAAAAfI/h9kSvx_pLSMl8g3ukbPZDdxN_wR5563EwCLcBGAsYHQ/s1600/nickmusic%2Btvlaint.jpg" group-title="INFANTIL",NIC MUSIC - LIS 2
+https://clubtv.link/ab25c/ab25b/lista3.php?c=80&f=.m3u8
 #EXTINF:-1 logo="https://images.produ.com/noticias/0317/big-Bandamax.jpg" group-title="MUSICA",BANDAMAX SD - GEO
 http://clubtv.link/ab25c/ab25b/geomex.php?c=221&f=.m3u8
 #EXTINF:-1 logo="https://images.produ.com/noticias/0317/big-Bandamax.jpg" group-title="MUSICA",BANDAMAX SD - GEO 2
