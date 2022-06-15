@@ -2,8 +2,8 @@
 
 
   
-#EXTINF:-1 tvg-logo="https://imgur.com/EkMMbwB.png" group-title="",26/5/2022 - GEO-TV-MX-LIST-ANDR SD-HD
-http://tecnotv.club/3junio/3junio/geomex.php?c=108&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/EkMMbwB.png" group-title="",14/6/2022 - GEO-TV-MX-LIST-ANDR SD-HD
+http://tecnotv.club/jun14/j1414/geomex.php?c=108&p=3&k=tecnotv&f=.m3u8
 
 
 
@@ -24,7 +24,7 @@ https://zypelive-lh.akamaihd.net/i/default_1@44045/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="872" tvg-name="ESNE" tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg", ESNE - LIS 1
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/mariavision/picture?width=200&height=200" group-title="Religiosos" tvg-name="María Visión Mexico",María Visión - LIS 3
-http://clubtv.link/3junio/3junio/respaldo.php?c=3124&f=.m3u8
+http://clubtv.link/jun14/j1414/respaldo.php?c=3124&f=.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/mariavision/picture?width=200&height=200" group-title="Religiosos" tvg-name="María Visión Mexico",María Visión Mexico
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
