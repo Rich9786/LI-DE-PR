@@ -13,18 +13,6 @@ http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1944.ts
 
 
 
-#EXTINF:-1 tvg-name="TNT Series" tvg-logo="" group-title="CINE Y SERIES",TNT Series
-http://clubtv.link/24jun/j2424/android2.php?c=109&f=.m3u8
-#EXTINF:-1 tvg-name="TNT Series" tvg-logo="" group-title="CINE Y SERIES",TNT Series
-http://clubtv.link/24jun/j2424/android2.php?c=109f=.m3u8
-#EXTINF:-1 tvg-name="TNT Series" tvg-logo="" group-title="CINE Y SERIES",TNT Series
-http://clubtv.link/24jun/j2424/android2.php?c=109=.m3u8
-#EXTINF:-1 tvg-name="TNT Series" tvg-logo="" group-title="CINE Y SERIES",TNT Series
-http://clubtv.link/24jun/j2424/android2.php?c=109.m3u8
-#EXTINF:-1 tvg-name="TNT Series" tvg-logo="" group-title="CINE Y SERIES",TNT Series
-http://clubtv.link/24jun/j2424/android2.php?c=109f.m3u8
-
-
 
 #EXTINF:-1 tvg-id="873" tvg-name="EWTN" tvg-logo="https://www.m3u.cl/logo/873_EWTN.jpg", EWTN | US
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8?PlaylistM3UCL
